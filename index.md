@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Xing Hu, Ge Li, Xin Xia, David Lo, Zhi Jin. 2018. Deep Code Comment
 Generation. In ICPC ’18: 26th IEEE/ACM International Conference
 on Program Comprehension , May 27–28, 2018, Gothenburg, Sweden.
-ACM, NewYork, NY, USA, 11 pages. https://doi.org/10.1145/3196321.3196334  [PDF](https://guides.github.com/features/mastering-markdown/)
+ACM, NewYork, NY, USA, 11 pages.[PDF](xing-hu.github.io/Deep Code Comment Generation.pdf)
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
