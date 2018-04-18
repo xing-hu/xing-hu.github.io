@@ -29,10 +29,12 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Publications
-Xing Hu, Ge Li, Xin Xia, David Lo, Zhi Jin. 2018. Deep Code Comment
-Generation. In ICPC ’18: 26th IEEE/ACM International Conference
-on Program Comprehension , May 27–28, 2018, Gothenburg, Sweden.
-ACM, NewYork, NY, USA, 11 pages.[PDF](https://xing-hu.github.io/Deep Code Comment Generation.pdf)
+**Xing Hu**, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin. “Summarizing Source Code with Transferred API Knowledge”. 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full Paper
+
+**Xing Hu**, Ge Li, Xin Xia, David Lo, Zhi Jin. “Deep Code Comment Generation”. 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full paper.[PDF](https://xing-hu.github.io/Deep Code Comment Generation.pdf)
+
+
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
