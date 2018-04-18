@@ -9,14 +9,6 @@
 
 I focus on the application of deep learning and natural language processing approaches to source code analysis.
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ## Publications
 ### 2018
 **Xing Hu**, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin. “Summarizing Source Code with Transferred API Knowledge”. 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full Paper
