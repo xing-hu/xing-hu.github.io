@@ -1,9 +1,5 @@
 #  Xing Hu
 
-You can use the [editor on GitHub](https://github.com/huxingfree/xing-hu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Education
 
 - 09/2015~07/2020 (expected), Peking University, PhD student in computer science under the supervision of Prof.Zhi Jin and Prof.Ge Li.
