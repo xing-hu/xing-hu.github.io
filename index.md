@@ -25,11 +25,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### 2018
 **Xing Hu**, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin. “Summarizing Source Code with Transferred API Knowledge”. 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full Paper
 
-**Xing Hu**, Ge Li, Xin Xia, David Lo, Zhi Jin. “Deep Code Comment Generation”. 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full paper.[PDF](https://xing-hu.github.io/Deep Code Comment Generation.pdf)
+**Xing Hu**, Ge Li, Xin Xia, David Lo, Zhi Jin. “Deep Code Comment Generation”. 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full paper.[Paper](https://xing-hu.github.io/Deep Code Comment Generation.pdf)
 
 ### 2016
 
-
+**Xing Hu**, Rui Zhang Rui, Qianxiang Wang. Service-Oriented Resource Management of Cloud Platforms//Services Computing (SCC-2016),  [Paper]()
 
 ## Contact
 
