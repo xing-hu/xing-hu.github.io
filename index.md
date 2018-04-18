@@ -6,19 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Education
 
-09/2015~07/2020 (expected), Peking University, PhD student in computer science under the supervision of Prof.Zhi Jin and Prof.Ge Li.
-09/2011~07/2015, Sichuan University, Bachelor diploma of Software and Engineering
+- 09/2015~07/2020 (expected), Peking University, PhD student in computer science under the supervision of Prof.Zhi Jin and Prof.Ge Li.
+- 09/2011~07/2015, Sichuan University, Bachelor diploma of Software and Engineering
 
 ## Research Interests
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+I focus on the application of deep learning and natural language processing approaches to source code analysis.
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
