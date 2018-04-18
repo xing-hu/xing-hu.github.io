@@ -29,7 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### 2016
 
-**Xing Hu**, Rui Zhang Rui, Qianxiang Wang. Service-Oriented Resource Management of Cloud Platforms//Services Computing (SCC-2016),  [Paper]()
+**Xing Hu**, Rui Zhang Rui, Qianxiang Wang. Service-Oriented Resource Management of Cloud Platforms//Services Computing (SCC-2016),  [Paper](xing-hu.github.io/07557483.pdf)
 
 ## Contact
 
