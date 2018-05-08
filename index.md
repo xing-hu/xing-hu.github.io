@@ -2,7 +2,7 @@
 
 ## Education
 
-- 09/2015~07/2020 (expected), Peking University, PhD student in computer science under the supervision of Prof.Zhi Jin and Prof.Ge Li.
+- 09/2015~07/2020 (expected), Peking University, PhD candidate in computer science under the supervision of Prof.Zhi Jin and Prof.Ge Li.
 - 09/2011~07/2015, Sichuan University, Bachelor diploma of Software and Engineering
 
 ## Research Interests
