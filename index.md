@@ -1,4 +1,4 @@
-#  Xing Hu
+#  Xing Hu (胡星)
 
 ## Education
 
