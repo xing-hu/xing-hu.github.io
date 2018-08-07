@@ -11,7 +11,7 @@ I focus on the application of deep learning and natural language processing appr
 
 ## Publications
 ### 2018
-**Xing Hu**, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin. “Summarizing Source Code with Transferred API Knowledge”. 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full paper. [Paper](xing-hu.github.io/ijcai18.pdf)
+**Xing Hu**, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin. “Summarizing Source Code with Transferred API Knowledge”. 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-2018). Accepted as a Full paper. [Paper](xing-hu.github.io/Summarizing Source Code with Transferred API Knowledge-paper.pdf)
 
 **Xing Hu**, Ge Li, Xin Xia, David Lo, Zhi Jin. “Deep Code Comment Generation”. 26th International Conference on Program Comprehension (ICPC 2018). Accepted as a Full paper. Distinguished Paper Award! [Paper](https://xing-hu.github.io/Deep Code Comment Generation-paper.pdf) [Slide](xing-hu.github.io/icpc-Deep Code Comment Generaton.pdf)
 
