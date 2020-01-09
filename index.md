@@ -23,9 +23,9 @@ I’m a Ph.D student in the Institute of Software Engineering, Peking University
 
 #### COLLEGE OF SOFTWARE ENGINEERING                                       Sep. 2011 – Jul. 2015
 -	2014 National Inspirational Scholarship
--	2014 The Second Prize Scholarship, Northwest University
+-	2014 The Second Prize Scholarship, Sichuan University
 -	2013 National Inspirational Scholarship
--	2013 The Second Prize Scholarship, Northwest University
+-	2013 The Second Prize Scholarship, Sichuan University
 -	2012 National Scholarship
 -	2012 The First Prize Scholarship, Sichuan University
 
