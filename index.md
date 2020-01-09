@@ -1,4 +1,4 @@
-#  Xing Hu (胡星) [CV](xing-hu.github.io/Xing Hu_CV.pdf)
+#  Xing Hu (胡星) [CV](xing-hu.github.io/Xing Hu_CV .pdf)
 
 I’m a Ph.D student in the Institute of Software Engineering, Peking University. My Advisors are Prof. Zhi Jin and Prof. Ge Li. I received the BS degree from the College of Software Engineering, Sichuan University. My main research interests are at the intersection of software engineering and natural language processing, focused on software documentation generation and code completion.
 
