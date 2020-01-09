@@ -35,8 +35,11 @@ I’m a Ph.D student in the Institute of Software Engineering, Peking University
 ### 2019
 
 **Xing Hu**, Ge Li, Xin Xia, David Lo, Zhi Jin, Deep Code Comment Generation with Hybrid Lexical and Syntactical Information. Empirical Software Engineering(EMSE), 2019.
+
 **Xing Hu**, Ge Li, Fang Liu, Zhi Jin. Program Generation and Code Completion Techniques Based on Deep Learning: Literature Review. Journal of Software 2019 (Chinese)
+
 Fang Liu, Ge Li, **Xing Hu**, Zhi Jin. Program Comprehension Based on Deep Learning. Journal of Computer Research and Development. 2019 (Chinese)
+
 **Xing Hu**, Rui Men, Ge Li, Zhi Jin，Deep-AutoCoder: Learning to Complete Code Precisely with Induced Code Tokens. Computer Software and Applications Conference(COMPSAC).2019
 
 
@@ -49,6 +52,7 @@ Fang Liu, Ge Li, **Xing Hu**, Zhi Jin. Program Comprehension Based on Deep Learn
 ### 2017
 
 **Xing Hu**, Qianxiang Wang. Application of Deep Learning in Recommendation of Bug Reports Assignment[J]. Journal of Frontiers of Computer Science and Technology, 2017 (Chinese)
+
 **Xing Hu**, Zerui Wang, Shuo Li, Nan Yang, Zhifan Zhang, Qiao Wang, Qianxiang Wang. POP: Micro-service Based Online Programming System. Computer Science, 2017 (Chinese)
 
 
@@ -70,6 +74,7 @@ I have been a co-reviewer of the following conferences/journals.
 
 ### I have been the teaching assistant of the following undergraduate course.
 - 2015-2016-1, Practice for Compiler Design, Department of Computer Science, Peking University.
+
 ### I have been the teaching assistant of the following postgraduate course.
 -	2017-2018-2, Technique and Application of Deep Learning, Department of Computer Science, Peking University.
 ###	I have given classes at the following postgraduate courses.
