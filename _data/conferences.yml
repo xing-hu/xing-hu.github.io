@@ -1,0 +1,39 @@
+- title: "Automating User Notice Generation for Smart Contract Functions"
+  authors: <b>Xing Hu</b>, Zhipeng Gao, Xin Xia, David Lo, Xiaohu Yang
+  venue: 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)
+  year: 2021
+  status: accepted
+
+- title: "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization"
+  authors: Jia Li, Yongmin Li, Ge Li, <b>Xing Hu</b>, Xin Xia, Zhi Jin
+  venue: 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)
+  year: 2021
+  status: accepted
+
+
+- title: "DeepCommenter: A Deep Code Comment Generation Tool with Hybrid Lexical and Syntactical Information"
+  authors: Boao Li, Meng Yan, Xin Xia, <b>Xing Hu</b>, Ge Li, David Lo
+  venue: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020), Tool Demo paper.
+  year: 2020
+  status: accepted
+
+
+- title: "Deep-AutoCoder: Learning to Complete Code Precisely with Induced Code Tokens"
+  authors: <b>Xing Hu</b>, Rui Men, Ge Li, Zhi Jin
+  venue: IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC).
+  year: 2019
+  status: accepted
+  
+
+
+- title: "Summarizing Source Code with Transferred API Knowledge"
+  authors: <b>Xing Hu</b>, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin
+  venue: 27th International Joint Conference on Artificial Intelligence (IJCAI 2018).
+  year: 2018
+  status: accepted
+
+- title: "Deep Code Comment Generation"
+  authors: <b>Xing Hu</b>, Ge Li, Xin Xia, David Lo, Zhi Jin
+  venue: 26th International Conference on Program Comprehension (ICPC 2018), <b>ACM SIGSOFT Distinguished Paper Award</b>.
+  year: 2018
+  status: accepted

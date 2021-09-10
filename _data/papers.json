@@ -1,0 +1,75 @@
+{
+    "2021": [
+        {
+            "idx": "C6",
+            "title": "Automating User Notice Generation for Smart Contract Functions",
+            "authors": "<b>Xing Hu</b>, Zhipeng Gao, Xin Xia, David Lo, Xiaohu Yang",
+            "venue": "36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C5",
+            "title": "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization",
+            "authors": "Jia Li, Yongmin Li, Ge Li, <b>Xing Hu</b>, Xin Xia, Zhi Jin",
+            "venue": "36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)",
+            "status": "Accepted as a Full Paper"
+        }
+    ],
+
+    "2020": [
+        {
+            "idx": "J3",
+            "title": "Deep Code Comment Generation with Hybrid Lexical and Syntactical Information",
+            "authors": "<b>Xing Hu</b>, Ge Li, Xin Xia, David Lo, Zhi Jin",
+            "venue": "Empirical Software Engineering (EMSE)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "C4",
+            "title": "DeepCommenter: A Deep Code Comment Generation Tool with Hybrid Lexical and Syntactical Information",
+            "authors": "Boao Li, Meng Yan, Xin Xia, <b>Xing Hu</b>, Ge Li, David Lo",
+            "venue": "The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)",
+            "status": "Accepted as a Tool Demo Paper"
+        }
+    ],
+    "2019": [
+        {
+            "idx": "C3",
+            "title": "Deep-AutoCoder: Learning to Complete Code Precisely with Induced Code Tokens",
+            "authors": "<b>Xing Hu</b>, Rui Men, Ge Li, Zhi Jin",
+            "venue": "IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J2",
+            "title": "Program Generation and Code Completion Techniques Based on Deep Learning: Literature Review",
+            "authors": "<b>Xing Hu</b>, Ge Li, Fang Liu, Zhi Jin",
+            "venue": "Journal of Software (in Chinese)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "J1",
+            "title": "Program Comprehension Based on Deep Learning",
+            "authors": "Fang Liu, Ge Li, <b>Xing Hu</b>, Zhi Jin",
+            "venue": "Journal of Computer Research and Development (in Chinese)",
+            "status": "Accepted"
+        }
+    ],
+    "2018": [
+        {
+            "idx": "C2",
+            "title": "Summarizing Source Code with Transferred API Knowledge",
+            "authors": "<b>Xing Hu</b>, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin",
+            "venue": "27th International Joint Conference on Artificial Intelligence (IJCAI 2018)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C1",
+            "title": "Deep Code Comment Generation",
+            "authors": "<b>Xing Hu</b>, Ge Li, Xin Xia, David Lo, Zhi Jin",
+            "venue": "26th International Conference on Program Comprehension (ICPC 2018)",
+            "status": "Accepted as a Full Paper",
+            "remark": "ACM SIGSOFT Distinguished Paper Award"
+        }
+    ]
+}
