@@ -7,6 +7,10 @@
     {
         "name": "Reviewer",
         "venue": "Journal of Software"
+      },
+      {
+        "name": "Data Showcase Committee Member",
+        "venue": "The 19th Working Conference on Mining Software Repositories (MSR 2022 Data and Tool Showcase Track)"
       }
 
   ]
