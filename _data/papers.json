@@ -1,5 +1,14 @@
 {
     "2021": [
+        {   
+            "idx": "J4",
+            "title": "Correlating Automated and Human Evaluation of Code Documentation Generation Quality",
+            "authors": "<b>Xing Hu</b>, Qiuyuan Chen, Haoye Wang, Xin Xia, David Lo, Thomas Zimmermann",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM).",
+            "status": "Accepted as a Full Paper"
+        },
+
+
         {
             "idx": "C6",
             "title": "Automating User Notice Generation for Smart Contract Functions",
