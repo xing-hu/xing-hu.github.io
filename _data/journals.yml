@@ -1,3 +1,9 @@
+- title: "Correlating Automated and Human Evaluation of Code Documentation Generation Quality"
+  authors: <b>Xing Hu</b>, Qiuyuan Chen, Haoye Wang, Xin Xia, David Lo, Thomas Zimmermann. 
+  venue: Empirical Software Engineering (EMSE)
+  year: 2021
+  status: accepted  
+
 - title: "Deep Code Comment Generation with Hybrid Lexical and Syntactical Information"
   authors: <b>Xing Hu</b>, Ge Li, Xin Xia, David Lo, Zhi Jin. 
   venue: Empirical Software Engineering (EMSE)
