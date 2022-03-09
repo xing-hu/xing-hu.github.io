@@ -1,6 +1,13 @@
 {
     "2022":[
         { 
+            "idx": "C8",
+            "title": "C4: Contrastive Cross-Language Code Clone Detection",
+            "authors": "Chenning Tao, Qi Zhan, <b>Xing Hu</b>, Xin Xia",
+            "venue": "30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022)",
+            "status": "Accepted as a Full Paper"
+        },
+        { 
             "idx": "C7",
             "title": "Practitioners’ Expectations on Automated Code Comment Generation",
             "authors": "<b>Xing Hu</b>, Xin Xia, David Lo, Zhiyuan Wan, Qiuyuan Chen, Thomas Zimmermann",
