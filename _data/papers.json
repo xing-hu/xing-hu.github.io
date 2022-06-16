@@ -1,5 +1,12 @@
 {
     "2022":[
+        {
+            "idx": "C9",
+            "title": "Automated Unearthing of Dangerous Issue Reports",
+            "authors": "Shengyi Pan, Jiayuan Zhou, Filipe R. Cogo, Xin Xia, Lingfeng Bao, <b>Xing Hu</b>, Shanping Li, Ahmed E. Hassan",
+            "venue": "The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022)",
+            "status": "Accepted as a Research Full paper"
+        },
         { 
             "idx": "C8",
             "title": "C4: Contrastive Cross-Language Code Clone Detection",
