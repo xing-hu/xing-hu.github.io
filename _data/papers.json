@@ -31,14 +31,16 @@
             "title": "Correlating Automated and Human Evaluation of Code Documentation Generation Quality",
             "authors": "<b>Xing Hu</b>, Qiuyuan Chen, Haoye Wang, Xin Xia, David Lo, Thomas Zimmermann",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/tosem2.pdf"
         },
         {
             "idx": "J4",
             "title": "Assessing and Improving an Evaluation Dataset for Detecting Semantic Code Clones via Deep Learning",
             "authors": "Hao Yu, <b>Xing Hu</b>, Ge Li, Tao Xie, Ying Li, Qianxiang Wang",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/tosem1.pdf"
 
         },
 
