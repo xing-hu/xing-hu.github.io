@@ -1,9 +1,17 @@
 {
   "2023":[
-    "name": "Program Committee",
-    "venue": "The International Conference on Evaluation and Assessment in Software Engineering (EASE, Vision and Emerging Results Track)"
-  ],
-  "2021": [
+    {
+      "name": "Program Committee",
+      "venue": "The International Conference on Evaluation and Assessment in Software Engineering (EASE, Vision and Emerging Results Track)"
+    },
+    {
+      "name": "Program Committee",
+      "venue": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023)"
+    },
+    {
+      "name": "Program Committee",
+      "venue": "The IEEE/ACM International Conference on Software Engineering (ICSE 2023 Demo Track)"
+    },
     {
         "name": "Reviewer",
         "venue": "Transactions on Software Engineering (TSE)"
@@ -17,10 +25,45 @@
         "venue": "Journal of Software"
       },
       {
+        "name": "Reviewer",
+        "venue": "Empirical Software Engineering (EMSE)"
+      }
+  ],
+  "2022":[
+   {
         "name": "Data Showcase Committee Member",
         "venue": "The 19th Working Conference on Mining Software Repositories (MSR 2022 Data and Tool Showcase Track)"
+    },
+    {
+        "name": "Reviewer",
+        "venue": "Transactions on Software Engineering (TSE)"
+      },
+    {
+        "name": "Reviewer",
+        "venue": "Journal of Computer Science and Technology (JCST)"
+      },
+    {
+        "name": "Reviewer",
+        "venue": "Journal of Software"
+      },
+      {
+        "name": "Reviewer",
+        "venue": "Empirical Software Engineering (EMSE)"
       }
-
+  ],
+  "2021": [
+    {
+        "name": "Reviewer",
+        "venue": "Transactions on Software Engineering (TSE)"
+      },
+    {
+        "name": "Reviewer",
+        "venue": "Journal of Computer Science and Technology (JCST)"
+      },
+    {
+        "name": "Reviewer",
+        "venue": "Journal of Software"
+      }
   ]
 }
   
