@@ -1,11 +1,21 @@
 {
-  "2021": [
+  "2022": [
     {
-        "name": "Intelligent Software Engineering ",
+        "name": "Intelligent Software Engineering",
         "term": "Fall"
       },
     {
-        "name": "Machine Learning and Applications ",
+        "name": "System software development practice",
+        "term": "Winter"
+      }
+  ],
+  "2021": [
+    {
+        "name": "Intelligent Software Engineering",
+        "term": "Fall"
+      },
+    {
+        "name": "Machine Learning and Applications",
         "term": "Winter"
       }
   ]
