@@ -65,7 +65,8 @@
             "title": "Automating User Notice Generation for Smart Contract Functions",
             "authors": "<b>Xing Hu</b>, Zhipeng Gao, Xin Xia, David Lo, Xiaohu Yang",
             "venue": "36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/ase21.pdf"
         },
         {
             "idx": "C5",
