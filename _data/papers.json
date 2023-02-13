@@ -5,14 +5,16 @@
             "title": "CoLeFunDa: Explainable Silent Vulnerability Fix Identification",
             "authors": "Jiayuan Zhou, Michael Pacheco, Jinfu Chen, <b>Xing Hu</b>, Xin Xia, David Lo, Ahmed E. Hassan",
             "venue": "45th ACM/IEEE International Conference on Software Engineering （ICSE 2023)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/icse23colefunda.pdf"
         },
         {
             "idx": "C10",
             "title": "SkCoder: A Sketch-based Approach for Automatic Code Generation",
             "authors": "Jia Li, Yongmin Li, Ge Li, Zhi Jin, <b>Xing Hu</b>",
             "venue": "45th ACM/IEEE International Conference on Software Engineering （ICSE 2023)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/icse23skcoder.pdf"
         }
     ],
     "2022":[
