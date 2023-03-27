@@ -1,9 +1,16 @@
 {
     "2023":[
         {
+            "idx": "J6",
+            "title": "Survey of Open Source Software Vulnerability Awareness",
+            "authors": "Qi Zhan, Shengyi Pan, <b>Xing Hu*</b>, Lingfeng Bao, Xin Xia",
+            "venue": "Journal of Computer Research and Development (in Chinese)",
+            "status": "Accepted"
+        },
+        {
             "idx": "C11",
             "title": "CoLeFunDa: Explainable Silent Vulnerability Fix Identification",
-            "authors": "Jiayuan Zhou, Michael Pacheco, Jinfu Chen, <b>Xing Hu</b>, Xin Xia, David Lo, Ahmed E. Hassan",
+            "authors": "Jiayuan Zhou, Michael Pacheco, Jinfu Chen, <b>Xing Hu*</b>, Xin Xia, David Lo, Ahmed E. Hassan",
             "venue": "45th ACM/IEEE International Conference on Software Engineering （ICSE 2023)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/icse23colefunda.pdf"
