@@ -1,6 +1,14 @@
 {
     "2023":[
         {
+            "idx": "J7",
+            "title": "CodeEditor: Learning to Edit Source Code with Pre-trained Models",
+            "authors": "Jia Li, Ge Li, Zhuo Li, Zhi Jin, <b>Xing Hu</b>, Kechi Zhang, Zhiyi Fu",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/tosem3.pdf"
+        },
+        {
             "idx": "J6",
             "title": "Survey of Open Source Software Vulnerability Awareness",
             "authors": "Qi Zhan, Shengyi Pan, <b>Xing Hu*</b>, Lingfeng Bao, Xin Xia",
