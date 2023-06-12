@@ -1,6 +1,13 @@
 {
     "2023":[
         {
+            "idx": "J8",
+            "title": "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code",
+            "authors": "Junwei Zhang, Zhongxin Liu, <b>Xing Hu</b>, Xin Xia, Shanping Li",
+            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "J7",
             "title": "CodeEditor: Learning to Edit Source Code with Pre-trained Models",
             "authors": "Jia Li, Ge Li, Zhuo Li, Zhi Jin, <b>Xing Hu</b>, Kechi Zhang, Zhiyi Fu",
