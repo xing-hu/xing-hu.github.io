@@ -1,6 +1,13 @@
 {
     "2023":[
         {
+            "idx": "C12", 
+            "title": "AutoDebloater: Automated Android App Debloating",
+            "authors": "Jiakun Liu, <b>Xing Hu</b>, Ferdian Thung, Shahar Maoz, Eran Toch, Debin Gao, David Lo",
+            "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)",
+            "status":"Accepted as a Tool Demo Paper"
+        },
+        {
             "idx": "J8",
             "title": "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code",
             "authors": "Junwei Zhang, Zhongxin Liu, <b>Xing Hu</b>, Xin Xia, Shanping Li",
