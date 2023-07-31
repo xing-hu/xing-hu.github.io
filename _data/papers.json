@@ -1,9 +1,16 @@
 {
     "2023":[
         {
+            "idx": "C15", 
+            "title": "C3: Code Clone-based Identification of Duplicated Components",
+            "authors": "Yanming Yang, Ying Zou, <b>Xing Hu*</b>, David Lo, Chao Ni, John Grundy, Xin Xia",
+            "venue": "The 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE Industry Track 2023)",
+            "status": "Accepted as an Industry Track Paper"
+        },
+        {
             "idx": "C14", 
             "title": "Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages",
-            "authors": "Zhenhao Li, An Ran Chen, <b>Xing Hu</b>, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang",
+            "authors": "Zhenhao Li, An Ran Chen, <b>Xing Hu*</b>, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang",
             "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)",
             "status":"Accepted as a Full Paper"
         },
