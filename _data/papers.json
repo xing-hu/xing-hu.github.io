@@ -5,7 +5,8 @@
             "title": "C3: Code Clone-based Identification of Duplicated Components",
             "authors": "Yanming Yang, Ying Zou, <b>Xing Hu*</b>, David Lo, Chao Ni, John Grundy, Xin Xia",
             "venue": "The 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE Industry Track 2023)",
-            "status": "Accepted as an Industry Track Paper"
+            "status": "Accepted as an Industry Track Paper",
+            "pdf": "assets/papers/fse2023Industry.pdf"
         },
         {
             "idx": "C14", 
