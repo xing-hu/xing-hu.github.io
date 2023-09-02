@@ -49,7 +49,8 @@
             "title": "Survey of Open Source Software Vulnerability Awareness",
             "authors": "Qi Zhan, Shengyi Pan, <b>Xing Hu*</b>, Lingfeng Bao, Xin Xia",
             "venue": "Journal of Software (in Chinese)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": "assets/papers/jos2023vul.pdf"
         },
         {
             "idx": "C11",
