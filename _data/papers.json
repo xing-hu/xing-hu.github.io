@@ -39,7 +39,7 @@
         {
             "idx": "J7",
             "title": "CodeEditor: Learning to Edit Source Code with Pre-trained Models",
-            "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Allen Li</a>, Ge Li, Zhuo Li, Zhi Jin, <b>Xing Hu</b>, Kechi Zhang, Zhiyi Fu",
+            "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Li</a>, Ge Li, Zhuo Li, Zhi Jin, <b>Xing Hu</b>, Kechi Zhang, Zhiyi Fu",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/CodeEditor_TOSEM.pdf"
@@ -63,7 +63,7 @@
         {
             "idx": "C10",
             "title": "SkCoder: A Sketch-based Approach for Automatic Code Generation",
-            "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Allen Li</a>, Yongmin Li, Ge Li, Zhi Jin, <b>Xing Hu</b>",
+            "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Li</a>, Yongmin Li, Ge Li, Zhi Jin, <b>Xing Hu</b>",
             "venue": "45th ACM/IEEE International Conference on Software Engineering （ICSE 2023)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/SkCoder_ICSE2023.pdf"
@@ -125,7 +125,7 @@
         {
             "idx": "C5",
             "title": "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization",
-            "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Allen Li</a>, Yongmin Li, Ge Li, <b>Xing Hu</b>, Xin Xia, Zhi Jin",
+            "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Li</a>, Yongmin Li, Ge Li, <b>Xing Hu</b>, Xin Xia, Zhi Jin",
             "venue": "36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/EditSum_ASE2021.pdf"
