@@ -1,6 +1,13 @@
 {
     "2024":[
         {
+            "idx": "J9",
+            "title": "Poison Attack and Poison Detection on Deep Source Code Processing Models",
+            "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Li</a>, Zhuo Li, Huangzhao Zhang, Ge Li, Zhi Jin, Xing Hu, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper",
+        },
+        {
             "idx": "C19",
             "title": "MUT: Human-in-the-Loop Unit Test Migration",
             "authors": "Yi Gao, <b>Xing Hu*</b>, Tongtong Xu, Xin Xia, David Lo, Xiaohu Yang",
