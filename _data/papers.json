@@ -5,7 +5,14 @@
             "title": "Poison Attack and Poison Detection on Deep Source Code Processing Models",
             "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Li</a>, Zhuo Li, Huangzhao Zhang, Ge Li, Zhi Jin, Xing Hu, Xin Xia",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
-            "status": "Accepted as a Full Paper",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C21",
+            "title": "Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine",
+            "authors": "Yanming Yang, <b>Xing Hu*</b>, Xin Xia, David Lo, Xiaohu Yang",
+            "venue": "46th International Conference on Software Engineering (ICSE 2024)",
+            "status": "Accepted as a Full Paper"
         },
         {
             "idx": "C20",
