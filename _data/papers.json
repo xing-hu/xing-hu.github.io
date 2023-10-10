@@ -1,13 +1,6 @@
 {
     "2024":[
         {
-            "idx": "C19",
-            "title": "MUT: Human-in-the-Loop Unit Test Migration",
-            "authors": "Yi Gao, <b>Xing Hu*</b>, Tongtong Xu, Xin Xia, David Lo, Xiaohu Yang",
-            "venue": "46th International Conference on Software Engineering (ICSE 2024)",
-            "status": "Accepted as a Full Paper"
-        },
-        {
             "idx": "C17", 
             "title": "PS3: Precise Patch Presence Test based on Semantic Symbolic Signature",
             "authors": "<a href='https://qi-zhan.github.io/'>Qi Zhan</a>, <b>Xing Hu*</b>, Zhiyang Li, Xin Xia, David Lo, Shanping Li",
