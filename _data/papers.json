@@ -8,6 +8,13 @@
             "status": "Accepted as a Full Paper",
         },
         {
+            "idx": "C20",
+            "title": "Code Search is All You Need? Improving Code Suggestions with Code Search",
+            "authors": "Junkai Chen, <b>Xing Hu*</b>, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo",
+            "venue": "46th International Conference on Software Engineering (ICSE 2024)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C19",
             "title": "MUT: Human-in-the-Loop Unit Test Migration",
             "authors": "Yi Gao, <b>Xing Hu*</b>, Tongtong Xu, Xin Xia, David Lo, Xiaohu Yang",
