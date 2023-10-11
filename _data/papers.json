@@ -1,13 +1,6 @@
 {
     "2024":[
         {
-            "idx": "J9",
-            "title": "Poison Attack and Poison Detection on Deep Source Code Processing Models",
-            "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Li</a>, Zhuo Li, Huangzhao Zhang, Ge Li, Zhi Jin, Xing Hu, Xin Xia",
-            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
-            "status": "Accepted as a Full Paper"
-        },
-        {
             "idx": "C21",
             "title": "Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine",
             "authors": "Yanming Yang, <b>Xing Hu*</b>, Xin Xia, David Lo, Xiaohu Yang",
@@ -44,6 +37,20 @@
         }
     ],
     "2023":[
+          {
+            "idx": "J10",
+            "title": "The Lost World: Characterizing and Detecting Undiscovered Test Smells",
+            "authors": "Yanming Yang, <b>Xing Hu*</b, Xin Xia, Xiaohu Yang",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J9",
+            "title": "Poison Attack and Poison Detection on Deep Source Code Processing Models",
+            "authors": "<a href='https://lj2lijia.github.io/index.html'>Jia Li</a>, Zhuo Li, Huangzhao Zhang, Ge Li, Zhi Jin, Xing Hu, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
         {
             "idx": "C16", 
             "title": "ACWRecommender: A Tool for Validating Actionable Warnings with Weak Supervision",
