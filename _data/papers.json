@@ -31,7 +31,7 @@
         {
             "idx": "C18", 
             "title": "Exploiting Library Vulnerability via Migration Based Automating Test Generation",
-            "authors": "Zirui Chen, <b>Xing Hu*</b>, Xin Xia, Yi Gao, Tongtong Xu, David Lo, Xiaohu Yang",
+            "authors": "<a href='https://chen-zirui.github.io/'>Zirui Chen, <b>Xing Hu*</b>, Xin Xia, Yi Gao, Tongtong Xu, David Lo, Xiaohu Yang",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
             "status": "Accepted as a Full Paper"
         },
