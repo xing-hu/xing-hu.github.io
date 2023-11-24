@@ -1,5 +1,31 @@
 {
+  "2024":[
+    {
+        "name": "Reviewer",
+        "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)"
+      },
+      {
+        "name": "Reviewer",
+        "venue": "Transactions on Software Engineering (TSE)"
+      },
+    {
+      "name": "Program Committee",
+      "venue": "The 21th Working Conference on Mining Software Repositories (MSR 2024)"
+    }
+    {
+      "name": "Program Committee",
+      "venue": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)" 
+    }
+  ]
   "2023":[
+    {
+      "name": "Program Co-Chair",
+      "venue": "14th Asia-Pacific Symposium on Internetware (Internetware 2023)"
+    },
+    {
+      "name": "Program Committee",
+      "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)"
+    },
     {
       "name": "Program Committee",
       "venue": "The International Conference on Evaluation and Assessment in Software Engineering (EASE, Vision and Emerging Results Track)"
