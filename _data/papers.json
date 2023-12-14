@@ -45,6 +45,13 @@
     ],
     "2023":[
           {
+            "idx": "J11",
+            "title": "Federated Learning for Software Engineering: A Case Study of Code Clone Detection and Defect Prediction",
+            "authors": "Yanming Yang, <b>Xing Hu*</b>, Zhipeng Gao, Jinfu Chen, Chao Ni, Xin Xia, David Lo",
+            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "J10",
             "title": "The Lost World: Characterizing and Detecting Undiscovered Test Smells",
             "authors": "Yanming Yang, <b>Xing Hu*</b>, Xin Xia, Xiaohu Yang",
