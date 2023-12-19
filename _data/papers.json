@@ -3,7 +3,7 @@
         {
             "idx": "C23",
             "title": "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization",
-            "authors": "Junwei Zhang, <b>Xing Hu</b>, Lingfeng Bao, Xin Xia, Shanping Li",
+            "authors": "Junwei Zhang, <b>Xing Hu*</b>, Lingfeng Bao, Xin Xia, Shanping Li",
             "venue": "International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)",
             "status": "Accepted as a Full Paper"
         },
