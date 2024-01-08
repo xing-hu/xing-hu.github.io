@@ -63,8 +63,7 @@
             "title": "Federated Learning for Software Engineering: A Case Study of Code Clone Detection and Defect Prediction",
             "authors": "Yanming Yang, <b>Xing Hu*</b>, Zhipeng Gao, Jinfu Chen, Chao Ni, Xin Xia, David Lo",
             "venue": "IEEE Transactions on Software Engineering (TSE)",
-            "status": "Accepted as a Full Paper",
-            "pdf": "assets/papers/tse2.pdf"
+            "status": "Accepted as a Full Paper"
         },
         {
             "idx": "J10",
