@@ -1,79 +1,82 @@
 {
-  "2024":[
+  "Journal Editor":[
     {
-        "name": "Reviewer",
-        "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)"
-      },
-      {
-        "name": "Reviewer",
-        "venue": "Transactions on Software Engineering (TSE)"
-      },
+      "name": "Associate Editor",
+      "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)"
+      }
+  ],
+  "Journal Review":[
     {
-      "name": "Program Committee",
-      "venue": "The 21th Working Conference on Mining Software Repositories (MSR 2024)"
+      "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)"
     },
     {
-      "name": "Program Committee",
-      "venue": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)" 
+      "venue": "Transactions on Software Engineering (TSE)"
+    },
+    {
+      "venue": "Empirical Software Engineering (EMSE)"
+    },
+    {
+      "venue": "Journal of Computer Science and Technology (JCST)"
+    },
+    {
+      "venue": "Journal of Software"
     }
   ],
-  "2023":[
+  "Program Program Co-Chair":[
     {
-      "name": "Program Co-Chair",
-      "venue": "14th Asia-Pacific Symposium on Internetware (Internetware 2023)"
+      "name": "2024",
+      "venue": "<a href='https://conf.researchr.org/home/forge-2024'>AI Foundation Models and Software Engineering (Forge 2024)</a>"
     },
     {
-      "name": "Program Committee",
+      "name": "2024",
+      "venue": "<a hred='https://conf.researchr.org/home/internetware-2024'>15th Asia-Pacific Symposium on Internetware (Internetware 2024) New Idea Track (CCF-C)</a>"
+    },
+    {
+      "name": "2023",
+      "venue": "<a href='https://conf.researchr.org/home/internetware-2023'>14th Asia-Pacific Symposium on Internetware (Internetware 2023) (CCF-C)</a>"
+    },
+    {
+      "name": "2023",
+      "venue": "<a href='https://conf.researchr.org/track/icse-2023/fose?'>Future of Software Engineering (FoSE 2023)</a>"
+    }
+  ],
+  "Program Committee Member":[
+    {
+      "name": "2025",
+      "venue": "47th International Conference on Software Engineering (ICSE 2025)"
+    },
+    {
+      "name": "2024",
+      "venue": "Mining Software Repositories (MSR)"
+    },
+    {
+      "name": "2024",
+      "venue": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)"
+    },
+    {
+      "name": "2024",
+      "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)"
+    },
+    {
+      "name": "2024",
+       "venue": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)" 
+    },
+    {
+      "name": "2023",
       "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)"
     },
     {
-      "name": "Program Committee",
-      "venue": "The International Conference on Evaluation and Assessment in Software Engineering (EASE, Vision and Emerging Results Track)"
-    },
-    {
-      "name": "Program Committee",
+      "name": "2023",
       "venue": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023)"
     },
     {
-      "name": "Program Committee",
+      "name": "2023",
       "venue": "The IEEE/ACM International Conference on Software Engineering (ICSE 2023 Demo Track)"
-    }
-  ],
-  "2022":[
-   {
-        "name": "Data Showcase Committee Member",
-        "venue": "The 19th Working Conference on Mining Software Repositories (MSR 2022 Data and Tool Showcase Track)"
     },
     {
-        "name": "Reviewer",
-        "venue": "Transactions on Software Engineering (TSE)"
-      },
-    {
-        "name": "Reviewer",
-        "venue": "Journal of Computer Science and Technology (JCST)"
-      },
-    {
-        "name": "Reviewer",
-        "venue": "Journal of Software"
-      },
-      {
-        "name": "Reviewer",
-        "venue": "Empirical Software Engineering (EMSE)"
-      }
-  ],
-  "2021": [
-    {
-        "name": "Reviewer",
-        "venue": "Transactions on Software Engineering (TSE)"
-      },
-    {
-        "name": "Reviewer",
-        "venue": "Journal of Computer Science and Technology (JCST)"
-      },
-    {
-        "name": "Reviewer",
-        "venue": "Journal of Software"
-      }
+      "name": "2022",
+      "venue": "The 19th Working Conference on Mining Software Repositories (MSR 2022 Data and Tool Showcase Track)"
+    }
   ]
 }
   
