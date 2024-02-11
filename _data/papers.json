@@ -2,6 +2,13 @@
     "2024":[
         {
             "idx": "C24", 
+            "title": "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges",
+            "authors": "Jiaqi Wu, Lingfeng Bao, Xiaohu Yang, Xin Xia, <b>Xing Hu</b>",
+            "venue": "21th IEEE International Conference on Mining Software Repositories (MSR 2024)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C24", 
             "title": "PPT4J: Patch Presence Test for Java Binaries",
             "authors": "Zhiyuan Pan, <b>Xing Hu*</b>, Xin Xia, Xian Zhan, David Lo, Xiaohu Yang",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
