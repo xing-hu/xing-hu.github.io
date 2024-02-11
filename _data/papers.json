@@ -1,6 +1,20 @@
 {
     "2024":[
         {
+            "idx": "C27", 
+            "title": "MiniMon: Minimizing Android Applications with Intelligent Monitoring-Based Debloating",
+            "authors": "Jiakun Liu, Zicheng Zhang, <b>Xing Hu</b>, Ferdian Thung, Shahar Maoz, Debin Gao, Eran Toch, Zhipeng Zhao, David Lo",
+            "venue": "46th International Conference on Software Engineering (ICSE 2024)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C26", 
+            "title": "Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models",
+            "authors": "Shuzheng Gao, Wenxin Mao, Cuiyun Gao, Li Li, <b>Xing Hu</b>, Xin Xia, Michael Lyu",
+            "venue": "46th International Conference on Software Engineering (ICSE 2024)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C25", 
             "title": "A Large-Scale Empirical Study of Open Source License Usage: Practices and Challenges",
             "authors": "Jiaqi Wu, Lingfeng Bao, Xiaohu Yang, Xin Xia, <b>Xing Hu</b>",
