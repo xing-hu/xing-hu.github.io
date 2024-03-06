@@ -1,6 +1,13 @@
 {
     "2024":[
         {
+            "idx": "J12", 
+            "title": "Automating TODO-dropped Methods Detection and Patching",
+            "authors": "Zhipeng Gao, Yanqi Su, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C27", 
             "title": "MiniMon: Minimizing Android Applications with Intelligent Monitoring-Based Debloating",
             "authors": "Jiakun Liu, Zicheng Zhang, <b>Xing Hu</b>, Ferdian Thung, Shahar Maoz, Debin Gao, Eran Toch, Zhipeng Zhao, David Lo",
