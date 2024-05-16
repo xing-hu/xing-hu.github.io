@@ -1,10 +1,24 @@
 {
     "2024":[
         {
+            "idx": "C30", 
+            "title": "Easy over Hard: A Simple Baseline for Test Failures Causes Prediction",
+            "authors": "Zhipeng Gao, Zhipeng Xue, <b>Xing Hu*</b>, Weiyi Shang, Xin Xia",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2024, Industry Track)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C29", 
+            "title": "Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning",
+            "authors": "Yubo Mai, Zhipeng Gao, <b>Xing Hu</b>, Lingfeng Bao, Yu Liu, Jianling Sun",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2024)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C28", 
             "title": "Automating Zero-Shot Patch Porting for Hard Forks",
             "authors": "Shengyi Pan, You Wang, Zhongxin Liu, <b>Xing Hu</b>, Xin Xia, Shanping Li",
-            "venue": "the 33rd International Symposium on Software Testing and Analysis (ISSTA)",
+            "venue": "the 33rd International Symposium on Software Testing and Analysis (ISSTA 2024)",
             "status": "Accepted as a Full Paper"
         },
         {
