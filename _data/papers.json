@@ -1,5 +1,46 @@
 {
+    "2025":[
+        {
+        
+            "idx": "C35", 
+            "title": "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?",
+            "authors": "Junkai Chen, Zhiyuan Pan, <b>Xing Hu*</b>, Zhenhao Li, Ge Li, Xin Xia",
+            "venue": "47th International Conference on Software Engineering (ICSE 2025)",
+            "status": "Accepted as a Full Paper"
+            
+        },
+        {
+        
+            "idx": "C34", 
+            "title": "Towards Better Answers: Automated Stack Overflow Post Updating",
+            "authors": "Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, <b>Xing Hu</b>, Xin Xia, Jianling Sun",
+            "venue": "47th International Conference on Software Engineering (ICSE 2025)",
+            "status": "Accepted as a Full Paper"
+            
+        }
+    ],
     "2024":[
+        {
+            "idx": "C33", 
+            "title": "Silent Taint-Style Vulnerability Fixes Identification",
+            "authors": "Zhongzhen Wen, Jiayuan Zhou, Minxue Pan, Shaohua Wang, <b>Xing Hu</b>, Tongtong Xu, Tian Zhang, Xuandong Li",
+            "venue": "the 33rd International Symposium on Software Testing and Analysis (ISSTA 2024)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C32", 
+            "title": "SelfPiCo: Self-Guided Partial Code Execution with LLMs",
+            "authors": "Zhipeng Xue, Zhipeng Gao, Shaohua Wang, <b>Xing Hu</b>, Xin Xia, Shanping Li",
+            "venue": "the 33rd International Symposium on Software Testing and Analysis (ISSTA 2024)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C31", 
+            "title": "Practitioners’ Expectations on Automated Test Generations",
+            "authors": "Xiao Yu, Lei Liu, <b>Xing Hu*</b>, Jacky Keung, Xin Xia, David Lo",
+            "venue": "the 33rd International Symposium on Software Testing and Analysis (ISSTA 2024)",
+            "status": "Accepted as a Full Paper"
+        },
         {
             "idx": "C30", 
             "title": "Easy over Hard: A Simple Baseline for Test Failures Causes Prediction",
