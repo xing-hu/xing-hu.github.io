@@ -4,7 +4,7 @@
         
             "idx": "C35", 
             "title": "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?",
-            "authors": "Junkai Chen, Zhiyuan Pan, <b>Xing Hu*</b>, Zhenhao Li, Ge Li, Xin Xia",
+            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhiyuan Pan, <b>Xing Hu*</b>, Zhenhao Li, Ge Li, Xin Xia",
             "venue": "47th International Conference on Software Engineering (ICSE 2025)",
             "status": "Accepted as a Full Paper"
             
@@ -122,7 +122,7 @@
         {
             "idx": "C20",
             "title": "Code Search is All You Need? Improving Code Suggestions with Code Search",
-            "authors": "Junkai Chen, <b>Xing Hu*</b>, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo",
+            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, <b>Xing Hu*</b>, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
             "status": "Accepted as a Full Paper"
         },
