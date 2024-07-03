@@ -1,25 +1,28 @@
 {
     "2025":[
         {
-        
-            "idx": "C35", 
+            "idx": "C36", 
             "title": "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?",
             "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhiyuan Pan, <b>Xing Hu*</b>, Zhenhao Li, Ge Li, Xin Xia",
             "venue": "47th International Conference on Software Engineering (ICSE 2025)",
             "status": "Accepted as a Full Paper"
-            
         },
         {
-        
-            "idx": "C34", 
+            "idx": "C35", 
             "title": "Towards Better Answers: Automated Stack Overflow Post Updating",
             "authors": "Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, <b>Xing Hu</b>, Xin Xia, Jianling Sun",
             "venue": "47th International Conference on Software Engineering (ICSE 2025)",
-            "status": "Accepted as a Full Paper"
-            
+            "status": "Accepted as a Full Paper" 
         }
     ],
     "2024":[
+        {
+            "idx": "C34", 
+            "title": "An Empirical Study of Automatic Program Repair Techniques for Injection Vulnerabilities",
+            "authors": "Tingwei Zhu, Tongtong Xu, Kui Liu, Jiayuan Zhou, <b>Xing Hu</b>, Xin Xia, Tian Zhang, David Lo",
+            "venue": "40th IEEE International Conference on Software Maintenance and Evolution (ICSME 2024)",
+            "status": "Accepted as a Full Paper"
+        },
         {
             "idx": "C33", 
             "title": "Silent Taint-Style Vulnerability Fixes Identification",
