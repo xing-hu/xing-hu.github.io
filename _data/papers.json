@@ -89,7 +89,8 @@
             "authors": "Jiaqi Wu, Lingfeng Bao, Xiaohu Yang, Xin Xia, <b>Xing Hu</b>",
             "venue": "21th IEEE International Conference on Mining Software Repositories (MSR 2024)",
             "status": "Accepted as a Full Paper",
-            "pdf": "assets/papers/msr2024.pdf"
+            "pdf": "assets/papers/msr2024.pdf",
+            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
         },
         {
             "idx": "C24", 
@@ -124,7 +125,8 @@
             "title": "Code Search is All You Need? Improving Code Suggestions with Code Search",
             "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, <b>Xing Hu*</b>, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
         },
         {
             "idx": "C19",
@@ -363,7 +365,7 @@
             "authors": "<b>Xing Hu</b>, Ge Li, Xin Xia, David Lo, Zhi Jin",
             "venue": "26th International Conference on Program Comprehension (ICPC 2018)",
             "status": "Accepted as a Full Paper",
-            "remark": "ACM SIGSOFT Distinguished Paper Award"
+            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
         }
     ]
 }
