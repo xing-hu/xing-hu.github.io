@@ -1,21 +1,14 @@
 {
     "2025":[
         {
-            "idx": "C37", 
-            "title": "REACT: IR-Level Patch Presence Test for Binary",
-            "authors": "<a href='https://qi-zhan.github.io/'>Qi Zhan</a>, <b>Xing Hu*</b>, Xin Xia, Shanping Li",
-            "venue": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
-            "status": "Accepted as a Full Paper"
-        },
-        {
-            "idx": "C36", 
+            "idx": "C38", 
             "title": "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?",
             "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhiyuan Pan, <b>Xing Hu*</b>, Zhenhao Li, Ge Li, Xin Xia",
             "venue": "47th International Conference on Software Engineering (ICSE 2025)",
             "status": "Accepted as a Full Paper"
         },
         {
-            "idx": "C35", 
+            "idx": "C37", 
             "title": "Towards Better Answers: Automated Stack Overflow Post Updating",
             "authors": "Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, <b>Xing Hu</b>, Xin Xia, Jianling Sun",
             "venue": "47th International Conference on Software Engineering (ICSE 2025)",
@@ -23,6 +16,20 @@
         }
     ],
     "2024":[
+        {
+            "idx": "C36", 
+            "title": "What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective",
+            "authors": "Xiao Yu, Zexian Zhang, Feifei Niu, Xing Hu, Xin Xia, John Grundy",
+            "venue": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C35", 
+            "title": "REACT: IR-Level Patch Presence Test for Binary",
+            "authors": "<a href='https://qi-zhan.github.io/'>Qi Zhan</a>, <b>Xing Hu*</b>, Xin Xia, Shanping Li",
+            "venue": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
+            "status": "Accepted as a Full Paper"
+        },
         {
             "idx": "C34", 
             "title": "An Empirical Study of Automatic Program Repair Techniques for Injection Vulnerabilities",
