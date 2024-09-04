@@ -19,14 +19,14 @@
         {
             "idx": "J13", 
             "title": "Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities",
-            "authors": "Xiangping CHEN, Xing HU, Yuan HUANG, et al",
+            "authors": "Xiangping Chen, <b>Xing Hu</b>, Yuan Huang, et al",
             "venue": "Science China Information Sciences (SCIS)",
             "status": "Accepted as a Full Paper"
         },
         {
             "idx": "C36", 
             "title": "What Makes a High-Quality Training Dataset for Large Language Models: A Practitioners’ Perspective",
-            "authors": "Xiao Yu, Zexian Zhang, Feifei Niu, Xing Hu, Xin Xia, John Grundy",
+            "authors": "Xiao Yu, Zexian Zhang, Feifei Niu, <b>Xing Hu</b>, Xin Xia, John Grundy",
             "venue": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
             "status": "Accepted as a Full Paper"
         },
