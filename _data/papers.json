@@ -17,6 +17,20 @@
     ],
     "2024":[
         {
+            "idx": "J15", 
+            "title": "Vulnerability Detection via Multiple-Graph-Based Code Representation",
+            "authors": "Fangcheng Qiu, Zhongxin Liu, <b>Xing Hu</b>, Xin Xia, Gang Chen, Xinyu Wang",
+            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J14", 
+            "title": "Automating Comment Generation for Smart Contract from Bytecode",
+            "authors": "Jianhang Xiang, Zhipeng Gao, Lingfeng Bao, <b>Xing Hu</b>, Jiayuan Chen, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "J13", 
             "title": "Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities",
             "authors": "Xiangping Chen, <b>Xing Hu</b>, Yuan Huang, et al",
