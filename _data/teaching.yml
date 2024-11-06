@@ -1,5 +1,15 @@
 {
-  "2023": [
+"2024": [
+    {
+        "name": "Intelligent Software Engineering",
+        "term": "Fall"
+      },
+    {
+        "name": "System software development practice",
+        "term": "Winter"
+      }
+  ],  
+"2023": [
     {
         "name": "Intelligent Software Engineering",
         "term": "Fall"
