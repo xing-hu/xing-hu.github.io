@@ -26,7 +26,7 @@
         {
             "idx": "J16", 
             "title": "Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?",
-            "authors": "Xiao Yu, Lei Liu, Xing Hu*, Jacky Wai Keung, Jin Liu, Xin Xia",
+            "authors": "Xiao Yu, Lei Liu, <b>Xing Hu*</b>, Jacky Wai Keung, Jin Liu, Xin Xia",
             "venue": "IEEE Transactions on Software Engineering (TSE)",
             "status": "Accepted as a Full Paper"
         },
