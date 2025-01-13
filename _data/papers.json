@@ -1,6 +1,13 @@
 {
     "2025":[
         {
+            "idx": "C40", 
+            "title": "From Industrial Practices to Academia: Uncovering the Gap in Vulnerability Research and Practice",
+            "authors": "Zhuang Liu, <b>Xing Hu*</b>, Jiayuan Zhou, Xin Xia",
+            "venue": "22nd International Conference on Mining Software Repositories (MSR 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C39", 
             "title": "Towards Better Answers: Automated Stack Overflow Post Updating",
             "authors": "Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, <b>Xing Hu</b>, Xin Xia, Jianling Sun",
