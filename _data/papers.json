@@ -1,6 +1,13 @@
 {
     "2025":[
         {
+            "idx": "C39", 
+            "title": "Towards Better Answers: Automated Stack Overflow Post Updating",
+            "authors": "Yubo Mai, Zhipeng Gao, Haoye Wang, Tingting Bi, <b>Xing Hu</b>, Xin Xia, Jianling Sun",
+            "venue": "47th International Conference on Software Engineering (ICSE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C38", 
             "title": "Similar but Patched Code Considered Harmful – The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them",
             "authors": "Zixuan Tan, Jiayuan Zhou, <b>Xing Hu*</b>, Shengyi Pan, Kui Liu, Xin Xia",
