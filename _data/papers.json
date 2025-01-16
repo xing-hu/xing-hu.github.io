@@ -1,5 +1,20 @@
 {
     "2025":[
+        
+        {
+            "idx": "C44",
+            "title": "HornBro: Homotopy-like Method for Automated Quantum Program Repair",
+            "authors": "Siwei Tan, Liqiang Lu, Debin Xiang, Tianyao Chu, Congliang Lang, Jintao Chen, <b>Xing Hu</b>, Jianwei Yin",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C43",
+            "title": "Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM",
+            "authors": "Xu Yang, Wenhan Zhu, Michael Pacheco, Jiayuan Zhou, Shaowei Wang, <b>Xing Hu</b>, Kui Liu",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
         {
             "idx": "C42",
             "title": "Less is More: On the Importance of Data Quality for Unit Test Generation",
