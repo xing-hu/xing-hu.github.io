@@ -1,6 +1,12 @@
 {
     "2025":[
-        
+        {
+            "idx": "C45",
+            "title": "Vulnerability-Triggering Test Case Generation from Third-Party Libraries",
+            "authors": "Yi Gao, <b>Xing Hu*</b>, Zirui Chen, Tongtong Xu, Xiaohu Yang",
+            "venue": "2nd Conference on AI Foundation Models and Software Engineering (FORGE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
         {
             "idx": "C44",
             "title": "HornBro: Homotopy-like Method for Automated Quantum Program Repair",
