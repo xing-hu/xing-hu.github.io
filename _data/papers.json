@@ -1,6 +1,13 @@
 {
     "2025":[
         {
+            "idx": "C46",
+            "title": "A Comprehensive Study of Bug Characteristics on Foundation Language Models",
+            "authors": "Junxiao Han, Guanqi Wang, Jiakun Liu, Lingfeng Bao, <b>Xing Hu</b>, Jinling Wei, Shuiguang Deng",
+            "venue": "2nd Conference on AI Foundation Models and Software Engineering (FORGE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C45",
             "title": "Vulnerability-Triggering Test Case Generation from Third-Party Libraries",
             "authors": "Yi Gao, <b>Xing Hu*</b>, Zirui Chen, Tongtong Xu, Xiaohu Yang",
