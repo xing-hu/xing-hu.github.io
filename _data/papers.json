@@ -1,6 +1,13 @@
 {
     "2025":[
         {
+            "idx": "C47",
+            "title": "TRACETS4J: A Traceable Unit Test Generation Dataset",
+            "authors": "Xuancheng Jin, Zhuang Liu, Junwei Zhang, <b>Xing Hu</b>, Xin Xia",
+            "venue": "2nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C46",
             "title": "A Comprehensive Study of Bug Characteristics on Foundation Language Models",
             "authors": "Junxiao Han, Guanqi Wang, Jiakun Liu, Lingfeng Bao, <b>Xing Hu</b>, Jinling Wei, Shuiguang Deng",
