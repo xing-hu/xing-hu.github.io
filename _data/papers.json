@@ -3,7 +3,7 @@
         {
             "idx": "C47",
             "title": "TRACETS4J: A Traceable Unit Test Generation Dataset",
-            "authors": "Xuancheng Jin, Zhuang Liu, Junwei Zhang, <b>Xing Hu</b>, Xin Xia",
+            "authors": "Xuancheng Jin, Zhuang Liu, Junwei Zhang, <b>Xing Hu*</b>, Xin Xia",
             "venue": "2nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)",
             "status": "Accepted as a Full Paper"
         },
