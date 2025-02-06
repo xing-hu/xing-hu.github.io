@@ -1,6 +1,13 @@
 {
     "2025":[
         {
+            "idx": "J17", 
+            "title": "An Empirical Study on Vulnerability Disclosure Management of Open Source Software Systems",
+            "authors": "Shuhan Liu, Jiayuan Zhou, <b>Xing Hu</b>, Filipe R. Cogo, Xin Xia, Xiaohu Yang",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C47",
             "title": "TRACETS4J: A Traceable Unit Test Generation Dataset",
             "authors": "Xuancheng Jin, Zhuang Liu, Junwei Zhang, <b>Xing Hu*</b>, Xin Xia",
