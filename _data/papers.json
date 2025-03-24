@@ -376,7 +376,7 @@
         { 
             "idx": "C8",
             "title": "C4: Contrastive Cross-Language Code Clone Detection",
-            "authors": "Chenning Tao, Qi Zhan, <b>Xing Hu*</b>, Xin Xia",
+            "authors": "<a href='https://chenning-tao.github.io/'>Chenning Tao</a>, <a href='https://qi-zhan.github.io/'>Qi Zhan</a>, <b>Xing Hu*</b>, Xin Xia",
             "venue": "30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/icpc-c8.pdf"
