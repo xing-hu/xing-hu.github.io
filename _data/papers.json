@@ -1,6 +1,13 @@
 {
     "2025":[
         {
+            "idx": "J18", 
+            "title": "Towards On-The-Fly Code Performance Profiling",
+            "authors": "<b>Xing Hu</b>, Weixin Lin, Zhuang Liu, Xin Xia, Michael Ling, Yuan Wang, David Lo",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "J17", 
             "title": "An Empirical Study on Vulnerability Disclosure Management of Open Source Software Systems",
             "authors": "Shuhan Liu, Jiayuan Zhou, <b>Xing Hu*</b>, Filipe R. Cogo, Xin Xia, Xiaohu Yang",
