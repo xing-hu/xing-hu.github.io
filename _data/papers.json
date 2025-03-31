@@ -1,6 +1,20 @@
 {
     "2025":[
         {
+            "idx": "C49",
+            "title": "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs",
+            "authors": "Huan Li, Bei Wang*, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "the 34th International Symposium on Software Testing and Analysis (ISSTA 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C48",
+            "title": "Understanding Practitioners’ Expectations on Clear Code Review Comments",
+            "authors": "Junkai Chen, Zhenhao Li, Qiheng Mao, <b>Xing Hu*</b>, Kui Liu, Xin Xia",
+            "venue": "the 34th International Symposium on Software Testing and Analysis (ISSTA 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "J18", 
             "title": "Towards On-The-Fly Code Performance Profiling",
             "authors": "<b>Xing Hu</b>, Weixin Lin, Zhuang Liu, Xin Xia, Michael Ling, Yuan Wang, David Lo",
@@ -18,7 +32,7 @@
             "idx": "C47",
             "title": "TRACETS4J: A Traceable Unit Test Generation Dataset",
             "authors": "Xuancheng Jin, Zhuang Liu, Junwei Zhang, <b>Xing Hu*</b>, Xin Xia",
-            "venue": "2nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)",
+            "venue": "32nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)",
             "status": "Accepted as a Full Paper"
         },
         {
