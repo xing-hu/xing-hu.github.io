@@ -68,7 +68,8 @@
             "title": "Less is More: On the Importance of Data Quality for Unit Test Generation",
             "authors": "Junwei Zhang, <b>Xing Hu*</b>, Shan Gao, Xin Xia, David Lo, Shanping Li",
             "venue": "International Conference on the Foundations of Software Engineering (FSE 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
         },
         {
             "idx": "C41",
