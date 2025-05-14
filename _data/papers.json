@@ -1,6 +1,13 @@
 {
     "2025":[
         {
+            "idx": "J19",
+            "title": "NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations",
+            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhenhao Li, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C49",
             "title": "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs",
             "authors": "Huan Li, Bei Wang*, <b>Xing Hu*</b>, Xin Xia",
