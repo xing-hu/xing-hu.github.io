@@ -338,7 +338,8 @@
             "title": "Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages",
             "authors": "Zhenhao Li, An Ran Chen, <b>Xing Hu*</b>, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang",
             "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)",
-            "status":"Accepted as a Full Paper"
+            "status":"Accepted as a Full Paper",
+            "pdf": "assets/papers/ASE23log.pdf"
         },
         {
             "idx": "C13", 
