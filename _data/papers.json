@@ -345,7 +345,8 @@
             "title": "Identify and Update Test Cases when Production Code Changes: A Transformer-based Approach",
             "authors": "<b>Xing Hu</b>, Zhuang Liu, Xin Xia, Zhongxin Liu, Tongtong Xu, Xiaohu Yang",
             "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)",
-            "status":"Accepted as a Full Paper"
+            "status":"Accepted as a Full Paper",
+            "pdf": "assets/papers/ASE2023CEPROT.pdf"
         },
         {
             "idx": "C12", 
