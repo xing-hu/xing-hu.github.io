@@ -156,7 +156,8 @@
             "title": "REACT: IR-Level Patch Presence Test for Binary",
             "authors": "<a href='https://qi-zhan.github.io/'>Qi Zhan</a>, <b>Xing Hu*</b>, Xin Xia, Shanping Li",
             "venue": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/ase24zq.pdf"
         },
         {
             "idx": "C34", 
@@ -293,7 +294,8 @@
             "title": "PS3: Precise Patch Presence Test based on Semantic Symbolic Signature",
             "authors": "<a href='https://qi-zhan.github.io/'>Qi Zhan</a>, <b>Xing Hu*</b>, Zhiyang Li, Xin Xia, David Lo, Shanping Li",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/icse24zq.pdf"
         }
     ],
     "2023":[
