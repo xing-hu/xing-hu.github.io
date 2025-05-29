@@ -1,11 +1,90 @@
 {
     "2025":[
         {
+            "idx": "J19",
+            "title": "NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations",
+            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhenhao Li, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C49",
+            "title": "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs",
+            "authors": "Huan Li, Bei Wang*, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "the 34th International Symposium on Software Testing and Analysis (ISSTA 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C48",
+            "title": "Understanding Practitioners’ Expectations on Clear Code Review Comments",
+            "authors": "Junkai Chen, Zhenhao Li, Qiheng Mao, <b>Xing Hu*</b>, Kui Liu, Xin Xia",
+            "venue": "the 34th International Symposium on Software Testing and Analysis (ISSTA 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J18", 
+            "title": "Towards On-The-Fly Code Performance Profiling",
+            "authors": "<b>Xing Hu</b>, Weixin Lin, Zhuang Liu, Xin Xia, Michael Ling, Yuan Wang, David Lo",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J17", 
+            "title": "An Empirical Study on Vulnerability Disclosure Management of Open Source Software Systems",
+            "authors": "Shuhan Liu, Jiayuan Zhou, <b>Xing Hu*</b>, Filipe R. Cogo, Xin Xia, Xiaohu Yang",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C47",
+            "title": "TRACETS4J: A Traceable Unit Test Generation Dataset",
+            "authors": "Xuancheng Jin, Zhuang Liu, Junwei Zhang, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "32nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C46",
+            "title": "A Comprehensive Study of Bug Characteristics on Foundation Language Models",
+            "authors": "Junxiao Han, Guanqi Wang, Jiakun Liu, Lingfeng Bao, <b>Xing Hu</b>, Jinling Wei, Shuiguang Deng",
+            "venue": "2nd Conference on AI Foundation Models and Software Engineering (FORGE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C45",
+            "title": "Vulnerability-Triggering Test Case Generation from Third-Party Libraries",
+            "authors": "Yi Gao, <b>Xing Hu*</b>, Zirui Chen, Tongtong Xu, Xiaohu Yang",
+            "venue": "2nd Conference on AI Foundation Models and Software Engineering (FORGE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C44",
+            "title": "HornBro: Homotopy-like Method for Automated Quantum Program Repair",
+            "authors": "Siwei Tan, Liqiang Lu, Debin Xiang, Tianyao Chu, Congliang Lang, Jintao Chen, <b>Xing Hu</b>, Jianwei Yin",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C43",
+            "title": "Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM",
+            "authors": "Xu Yang, Wenhan Zhu, Michael Pacheco, Jiayuan Zhou, Shaowei Wang, <b>Xing Hu</b>, Kui Liu",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C42",
+            "title": "Less is More: On the Importance of Data Quality for Unit Test Generation",
+            "authors": "Junwei Zhang, <b>Xing Hu*</b>, Shan Gao, Xin Xia, David Lo, Shanping Li",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2025)",
+            "status": "Accepted as a Full Paper",
+            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
+        },
+        {
             "idx": "C41",
             "title": "Automated Unit Test Refactoring",
             "authors": "Yi Gao, <b>Xing Hu*</b>, Xiaohu Yang, Xin Xia",
             "venue": "International Conference on the Foundations of Software Engineering (FSE 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/FSE25TestRefactoring.pdf"
         },
         {
             "idx": "C40", 
@@ -33,7 +112,8 @@
             "title": "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?",
             "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhiyuan Pan, <b>Xing Hu*</b>, Zhenhao Li, Ge Li, Xin Xia",
             "venue": "47th International Conference on Software Engineering (ICSE 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/ICSE2025CodeReasoning.pdf"
         }
     ],
     "2024":[    
@@ -77,7 +157,8 @@
             "title": "REACT: IR-Level Patch Presence Test for Binary",
             "authors": "<a href='https://qi-zhan.github.io/'>Qi Zhan</a>, <b>Xing Hu*</b>, Xin Xia, Shanping Li",
             "venue": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/ase24zq.pdf"
         },
         {
             "idx": "C34", 
@@ -184,7 +265,8 @@
             "title": "Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine",
             "authors": "Yanming Yang, <b>Xing Hu*</b>, Xin Xia, David Lo, Xiaohu Yang",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/icse24idioms.pdf"
         },
         {
             "idx": "C20",
@@ -192,7 +274,8 @@
             "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, <b>Xing Hu*</b>, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
             "status": "Accepted as a Full Paper",
-            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
+            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅",
+            "pdf": "assets/papers/ICSE2024_Code_Suggestion.pdf"
         },
         {
             "idx": "C19",
@@ -213,7 +296,8 @@
             "title": "PS3: Precise Patch Presence Test based on Semantic Symbolic Signature",
             "authors": "<a href='https://qi-zhan.github.io/'>Qi Zhan</a>, <b>Xing Hu*</b>, Zhiyang Li, Xin Xia, David Lo, Shanping Li",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/icse24zq.pdf"
         }
     ],
     "2023":[
@@ -258,14 +342,16 @@
             "title": "Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages",
             "authors": "Zhenhao Li, An Ran Chen, <b>Xing Hu*</b>, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang",
             "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)",
-            "status":"Accepted as a Full Paper"
+            "status":"Accepted as a Full Paper",
+            "pdf": "assets/papers/ASE23log.pdf"
         },
         {
             "idx": "C13", 
             "title": "Identify and Update Test Cases when Production Code Changes: A Transformer-based Approach",
             "authors": "<b>Xing Hu</b>, Zhuang Liu, Xin Xia, Zhongxin Liu, Tongtong Xu, Xiaohu Yang",
             "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)",
-            "status":"Accepted as a Full Paper"
+            "status":"Accepted as a Full Paper",
+            "pdf": "assets/papers/ASE2023CEPROT.pdf"
         },
         {
             "idx": "C12", 
@@ -327,7 +413,7 @@
         { 
             "idx": "C8",
             "title": "C4: Contrastive Cross-Language Code Clone Detection",
-            "authors": "Chenning Tao, Qi Zhan, <b>Xing Hu*</b>, Xin Xia",
+            "authors": "<a href='https://chenning-tao.github.io/'>Chenning Tao</a>, <a href='https://qi-zhan.github.io/'>Qi Zhan</a>, <b>Xing Hu*</b>, Xin Xia",
             "venue": "30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/icpc-c8.pdf"
