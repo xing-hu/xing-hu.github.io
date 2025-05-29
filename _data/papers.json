@@ -265,7 +265,8 @@
             "title": "Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine",
             "authors": "Yanming Yang, <b>Xing Hu*</b>, Xin Xia, David Lo, Xiaohu Yang",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/icse24idioms.pdf"
         },
         {
             "idx": "C20",
