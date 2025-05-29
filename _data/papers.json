@@ -83,7 +83,8 @@
             "title": "Automated Unit Test Refactoring",
             "authors": "Yi Gao, <b>Xing Hu*</b>, Xiaohu Yang, Xin Xia",
             "venue": "International Conference on the Foundations of Software Engineering (FSE 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/FSE25TestRefactoring.pdf"
         },
         {
             "idx": "C40", 
