@@ -1,6 +1,13 @@
 {
     "2025":[
         {
+            "idx": "J20",
+            "title": "Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback",
+            "authors": "<a href='https://jw-zhang-zju.github.io/'>Junwei Zhang</a>, <b>Xing Hu*</b>, Xin Xia, Shing-Chi Cheung, Shanping Li",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "J19",
             "title": "NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations",
             "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhenhao Li, <b>Xing Hu*</b>, Xin Xia",
@@ -38,7 +45,7 @@
         {
             "idx": "C47",
             "title": "TRACETS4J: A Traceable Unit Test Generation Dataset",
-            "authors": "Xuancheng Jin, Zhuang Liu, Junwei Zhang, <b>Xing Hu*</b>, Xin Xia",
+            "authors": "Xuancheng Jin, Zhuang Liu, <a href='https://jw-zhang-zju.github.io/'>Junwei Zhang</a>, <b>Xing Hu*</b>, Xin Xia",
             "venue": "32nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)",
             "status": "Accepted as a Full Paper"
         },
@@ -73,10 +80,11 @@
         {
             "idx": "C42",
             "title": "Less is More: On the Importance of Data Quality for Unit Test Generation",
-            "authors": "Junwei Zhang, <b>Xing Hu*</b>, Shan Gao, Xin Xia, David Lo, Shanping Li",
+            "authors": "<a href='https://jw-zhang-zju.github.io/'>Junwei Zhang</a>, <b>Xing Hu*</b>, Shan Gao, Xin Xia, David Lo, Shanping Li",
             "venue": "International Conference on the Foundations of Software Engineering (FSE 2025)",
             "status": "Accepted as a Full Paper",
-            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
+            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅",
+            "pdf": "assets/papers/FSE25CleanTest.pdf"
         },
         {
             "idx": "C41",
@@ -249,7 +257,7 @@
         {
             "idx": "C23",
             "title": "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization",
-            "authors": "Junwei Zhang, <b>Xing Hu*</b>, Lingfeng Bao, Xin Xia, Shanping Li",
+            "authors": "<a href='https://jw-zhang-zju.github.io/'>Junwei Zhang</a>, <b>Xing Hu*</b>, Lingfeng Bao, Xin Xia, Shanping Li",
             "venue": "International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)",
             "status": "Accepted as a Full Paper"
         },
@@ -363,7 +371,7 @@
         {
             "idx": "J8",
             "title": "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code",
-            "authors": "Junwei Zhang, Zhongxin Liu, <b>Xing Hu</b>, Xin Xia, Shanping Li",
+            "authors": "<a href='https://jw-zhang-zju.github.io/'>Junwei Zhang</a>, Zhongxin Liu, <b>Xing Hu</b>, Xin Xia, Shanping Li",
             "venue": "IEEE Transactions on Software Engineering (TSE)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/TSE-EPVD.pdf"
