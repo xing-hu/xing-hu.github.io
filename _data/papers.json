@@ -105,7 +105,8 @@
             "title": "Similar but Patched Code Considered Harmful – The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them",
             "authors": "Zixuan Tan, Jiayuan Zhou, <b>Xing Hu*</b>, Shengyi Pan, Kui Liu, Xin Xia",
             "venue": "47th International Conference on Software Engineering (ICSE 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/icse25Vul.pdf"
         },
         {
             "idx": "C37", 
