@@ -189,7 +189,8 @@
             "title": "SelfPiCo: Self-Guided Partial Code Execution with LLMs",
             "authors": "Zhipeng Xue, Zhipeng Gao, Shaohua Wang, <b>Xing Hu</b>, Xin Xia, Shanping Li",
             "venue": "the 33rd International Symposium on Software Testing and Analysis (ISSTA 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/issta24selfpi.pdf"
         },
         {
             "idx": "C31", 
