@@ -292,7 +292,8 @@
             "title": "MUT: Human-in-the-Loop Unit Test Migration",
             "authors": "Yi Gao, <b>Xing Hu*</b>, Tongtong Xu, Xin Xia, David Lo, Xiaohu Yang",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/icse24mut.pdf"
         },
         {
             "idx": "C18", 
