@@ -326,7 +326,8 @@
             "title": "The Lost World: Characterizing and Detecting Undiscovered Test Smells",
             "authors": "Yanming Yang, <b>Xing Hu*</b>, Xin Xia, Xiaohu Yang",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf":"assets/papers/tosem24testsmell.pdf"
         },
         {
             "idx": "J9",
