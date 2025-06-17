@@ -33,7 +33,8 @@
             "title": "Towards On-The-Fly Code Performance Profiling",
             "authors": "<b>Xing Hu</b>, Weixin Lin, Zhuang Liu, Xin Xia, Michael Ling, Yuan Wang, David Lo",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf":"assets/papers/tosem25profiling.pdf"
         },
         {
             "idx": "J17", 
