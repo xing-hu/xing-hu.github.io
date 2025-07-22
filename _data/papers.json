@@ -19,14 +19,16 @@
             "title": "Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs",
             "authors": "Huan Li, Bei Wang*, <b>Xing Hu*</b>, Xin Xia",
             "venue": "the 34th International Symposium on Software Testing and Analysis (ISSTA 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/issta25safe4U.pdf"
         },
         {
             "idx": "C48",
             "title": "Understanding Practitioners’ Expectations on Clear Code Review Comments",
             "authors": "Junkai Chen, Zhenhao Li, Qiheng Mao, <b>Xing Hu*</b>, Kui Liu, Xin Xia",
             "venue": "the 34th International Symposium on Software Testing and Analysis (ISSTA 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/issta25codereview.pdf"
         },
         {
             "idx": "J18", 
