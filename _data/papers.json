@@ -1,6 +1,14 @@
 {
     "2025":[
         {
+            "idx": "C50",
+            "title": "Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs",
+            "authors": "Siqi Wang,<b>Xing Hu*</b>, Bei Wang, Wenxin Yao, Xin Xia, Xinyu Wang",
+            "venue": "the 41st International Conference on Software Maintenance and Evolution (ICSME 2025)",
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/ICSME25Refactoring.pdf"
+        },
+        {
             "idx": "J20",
             "title": "Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback",
             "authors": "<a href='https://jw-zhang-zju.github.io/'>Junwei Zhang</a>, <b>Xing Hu*</b>, Xin Xia, Shing-Chi Cheung, Shanping Li",
