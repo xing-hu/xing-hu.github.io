@@ -1,6 +1,13 @@
 {
     "2025":[
         {
+            "idx": "J21",
+            "title": "More Than Meets the Eye: On Evaluating SBOM Tools In Java",
+            "authors": "Menghan Wu, Yukai Zhao, <b>Xing Hu*</b>, Xian Zhan, Shanping Li, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C50",
             "title": "Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs",
             "authors": "Siqi Wang,<b>Xing Hu*</b>, Bei Wang, Wenxin Yao, Xin Xia, Xinyu Wang",
