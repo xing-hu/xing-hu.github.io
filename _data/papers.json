@@ -264,10 +264,11 @@
         },
         {
             "idx": "J12", 
-            "title": "Automating TODO-dropped Methods Detection and Patching",
+            "title": "Automating TODO-missed Methods Detection and Patching",
             "authors": "Zhipeng Gao, Yanqi Su, <b>Xing Hu*</b>, Xin Xia",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf":"assets/papers/tosem24todo.pdf"
         },
         {
             "idx": "C27", 
