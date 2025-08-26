@@ -298,7 +298,8 @@
             "title": "PPT4J: Patch Presence Test for Java Binaries",
             "authors": "Zhiyuan Pan, <b>Xing Hu*</b>, Xin Xia, Xian Zhan, David Lo, Xiaohu Yang",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/icse24ppt4j.pdf"
         },
         {
             "idx": "C23",
