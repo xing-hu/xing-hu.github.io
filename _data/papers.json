@@ -1,7 +1,7 @@
 {
     "2026":[
         {
-            "idx": "C53",
+            "idx": "C54",
             "title": "Automating Just-In-Time Python Type Annotation Updating",
             "authors": "Zhipeng Xue, Zhipeng Gao, <b>Xing Hu</b>, Jingyuan Chen, Xin Xia, Shanping Li",
             "venue": "48th International Conference on Software Engineering (ICSE 2026)",
@@ -9,6 +9,13 @@
         }
     ],
     "2025":[
+        {
+            "idx": "C53",
+            "title": "Multi-Stage Generation of Rust Unit Tests with LLMs",
+            "authors": "Yongqian Chen, Junwei Zhang, <b>Xing Hu</b>, Xin Xia",
+            "venue": "32nd Asia-Pacific Software Engineering Conference (APSEC 2025)",
+            "status": "Accepted as a Full Paper"
+        },
         {
             "idx": "C52",
             "title": "Code-DiTing: Automatic Evaluation of Code Generation without References or Test Cases",
