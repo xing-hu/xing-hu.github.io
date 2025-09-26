@@ -10,6 +10,14 @@
     ],
     "2025":[
         {
+            "idx": "C54",
+            "title": "When AllClose Fails: Round-Off Error Estimation for Deep Learning Programs",
+            "authors": "Qi Zhan, <b>Xing Hu<b>, Yuanyi Lin, Tongtong Xu, Xin Xia, Shanping Li",
+            "venue": "40th International Conference on Automated Software Engineering, ASE 2025",
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/ASE2025zq.pdf"
+        },
+        {
             "idx": "C53",
             "title": "Multi-Stage Generation of Rust Unit Tests with LLMs",
             "authors": "Yongqian Chen, Junwei Zhang, <b>Xing Hu</b>, Xin Xia",
