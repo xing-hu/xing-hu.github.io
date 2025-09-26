@@ -10,10 +10,17 @@
     ],
     "2025":[
         {
-            "idx": "C54",
+            "idx": "C56",
+            "title": "HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing",
+            "authors": "Yukai Zhao, Menghan Wu, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C55",
             "title": "When AllClose Fails: Round-Off Error Estimation for Deep Learning Programs",
-            "authors": "Qi Zhan, <b>Xing Hu<b>, Yuanyi Lin, Tongtong Xu, Xin Xia, Shanping Li",
-            "venue": "40th International Conference on Automated Software Engineering, ASE 2025",
+            "authors": "Qi Zhan, <b>Xing Hu*</b>, Yuanyi Lin, Tongtong Xu, Xin Xia, Shanping Li",
+            "venue": "40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/ASE2025zq.pdf"
         },
@@ -39,7 +46,28 @@
             "status": "Accepted as a Full Paper"
         },
         {
-            "idx": "J21",
+            "idx": "J25",
+            "title": "Artificial Intelligence for Software Engineering: The Journey so far and the Road ahead",
+            "authors": "Iftekhar Ahmed, Aldeida Aleti, Haipeng Cai, Alexander Chatzigeorgiou, Pinjia He, <b>Xing Hu</b>, Mauro Pezzè, Denys Poshyvanyk, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J24",
+            "title": "The current challenges of software engineering in the era of large language models",
+            "authors": "Cuiyun Gao, <b>Xing Hu*</b>, Shan Gao, Xin Xia, Zhi Jin*",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J23",
+            "title": "Less Is More: Unlocking Semi-Supervised Deep Learning for Vulnerability Detection",
+            "authors": "Xiao Yu, Guancheng Lin, <b>Xing Hu</b>, Jacky Wai Keung, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J22",
             "title": "More Than Meets the Eye: On Evaluating SBOM Tools In Java",
             "authors": "Menghan Wu, Yukai Zhao, <b>Xing Hu*</b>, Xian Zhan, Shanping Li, Xin Xia",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
@@ -54,14 +82,14 @@
             "pdf": "assets/papers/ICSME25Refactoring.pdf"
         },
         {
-            "idx": "J20",
+            "idx": "J21",
             "title": "Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback",
             "authors": "<a href='https://jw-zhang-zju.github.io/'>Junwei Zhang</a>, <b>Xing Hu*</b>, Xin Xia, Shing-Chi Cheung, Shanping Li",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
             "status": "Accepted as a Full Paper"
         },
         {
-            "idx": "J19",
+            "idx": "J20",
             "title": "NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations",
             "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhenhao Li, <b>Xing Hu*</b>, Xin Xia",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
@@ -84,7 +112,7 @@
             "pdf": "assets/papers/issta25codereview.pdf"
         },
         {
-            "idx": "J18", 
+            "idx": "J19", 
             "title": "Towards On-The-Fly Code Performance Profiling",
             "authors": "<b>Xing Hu</b>, Weixin Lin, Zhuang Liu, Xin Xia, Michael Ling, Yuan Wang, David Lo",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
@@ -92,7 +120,7 @@
             "pdf":"assets/papers/tosem25profiling.pdf"
         },
         {
-            "idx": "J17", 
+            "idx": "J18", 
             "title": "An Empirical Study on Vulnerability Disclosure Management of Open Source Software Systems",
             "authors": "Shuhan Liu, Jiayuan Zhou, <b>Xing Hu*</b>, Filipe R. Cogo, Xin Xia, Xiaohu Yang",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
@@ -183,6 +211,13 @@
         }
     ],
     "2024":[    
+        {
+            "idx": "J17", 
+            "title": "Just-in-time todo-missed commits detection",
+            "authors": "Haoye Wang, Zhipeng Gao, <b>Xing Hu</b>, David Lo, John Grundy, Xinyu Wang",
+            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "status": "Accepted as a Full Paper"
+        },
         {
             "idx": "J16", 
             "title": "Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?",
