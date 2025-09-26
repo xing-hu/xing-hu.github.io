@@ -48,7 +48,7 @@
         {
             "idx": "J25",
             "title": "Artificial Intelligence for Software Engineering: The Journey so far and the Road ahead",
-            "authors": "Iftekhar Ahmed, Aldeida Aleti, Haipeng Cai, Alexander Chatzigeorgiou, Pinjia He, <b>Xing Hu*</b>, Mauro Pezzè, Denys Poshyvanyk, Xin Xia",
+            "authors": "Iftekhar Ahmed, Aldeida Aleti, Haipeng Cai, Alexander Chatzigeorgiou, Pinjia He, <b>Xing Hu</b>, Mauro Pezzè, Denys Poshyvanyk, Xin Xia",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
             "status": "Accepted as a Full Paper"
         },
