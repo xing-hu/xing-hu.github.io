@@ -1,15 +1,27 @@
 { 
   "Co-Organizer":[
     {
+      "name": "2026",
+      "venue": ""<a href='https://conf.researchr.org/home/forge-2026'>AI Foundation Models and Software Engineering (Forge 2026)</a>
+    },
+    {
       "name": "2025",
-      "venue": "No.222 Shonan Meeting"
-      }
+      "venue": "No.222 Shonan Meeting - The Future of Development Environments with AI Foundation Models"
+    }
   ],
   
   "Journal Editor":[
     {
       "name": "Associate Editor",
       "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)"
+      },
+      {
+      "name": "Associate Editor",
+      "venue": "Empirical Software Engineering (EMSE)"
+      },
+      {
+      "name": "Associate Editor",
+      "venue": "Journal of Software: Evolution and Process (JSEP)"
       }
   ],
   "Journal Review":[
@@ -49,8 +61,20 @@
   ],
   "Program Committee Member":[
     {
-      "name": "2025",
-      "venue": "47th International Conference on Software Engineering (ICSE 2025)"
+      "name": "2025-2026",
+      "venue": "The ACM International Conference on the Foundations of Software Engineering (FSE)"
+    },
+    {
+      "name": "2024-2026",
+      "venue": "International Conference on Software Engineering (ICSE)"
+    },
+    {
+      "name": "2023-2025",
+      "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)"
+    },
+    {
+      "name": "2024-2025",
+      "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)"
     },
     {
       "name": "2024",
@@ -58,27 +82,11 @@
     },
     {
       "name": "2024",
-      "venue": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)"
-    },
-    {
-      "name": "2024",
-      "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)"
-    },
-    {
-      "name": "2024",
        "venue": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)" 
     },
     {
       "name": "2023",
-      "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)"
-    },
-    {
-      "name": "2023",
       "venue": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023)"
-    },
-    {
-      "name": "2023",
-      "venue": "The IEEE/ACM International Conference on Software Engineering (ICSE 2023 Demo Track)"
     },
     {
       "name": "2022",
