@@ -1,6 +1,27 @@
 {
     "2026":[
         {
+            "idx": "C59",
+            "title": "Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision",
+            "authors": "Zhipeng Xue, Zhipeng Gao, Tongtong Xu, <b>Xing Hu</b>, Xin Xia, Shanping Li",
+            "venue": "48th International Conference on Software Engineering (ICSE 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C58",
+            "title": "CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing",
+            "authors": "Shuhan Liu, <b>Xing Hu*</b>, Kerui Huang, Xiaohu Yang, David Lo, Xin Xia",
+            "venue": "48th International Conference on Software Engineering (ICSE 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C57",
+            "title": "Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities",
+            "authors": "Zirui Chen, Zhipeng Xue, Jiayuan Zhou, <b>Xing Hu*</b>, Xin Xia, Xiaohu Yang",
+            "venue": "48th International Conference on Software Engineering (ICSE 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C56",
             "title": "Automating Just-In-Time Python Type Annotation Updating",
             "authors": "Zhipeng Xue, Zhipeng Gao, <b>Xing Hu</b>, Jingyuan Chen, Xin Xia, Shanping Li",
