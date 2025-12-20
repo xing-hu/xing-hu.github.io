@@ -31,6 +31,13 @@
     ],
     "2025":[
         {
+            "idx": "J27",
+            "title": "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks",
+            "authors": "<b>Xing Hu</b>, Feifei Niu, Junkai Chen, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, David Lo",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "J26",
             "title": "CATCODER: Repository-Level Code Generation with Relevant Code and Type Context",
             "authors": "Zhiyuan Pan, <b>Xing Hu*</b>, Xin Xia, Xiaohu Yang",
