@@ -1,6 +1,20 @@
 {
     "2026":[
         {
+            "idx": "C61",
+            "title": "IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration",
+            "authors": "Yi Gao, Ziyuan Zhang, <b>Xing Hu</b>, Xiaohu Yang, Xin Xia",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C60",
+            "title": "Depradar: Agentic Coordination for Context-Aware Defect Impact Analysis in Deep Learning Libraries",
+            "authors": "Yi Gao, <b>Xing Hu*</b>, Tongtong Xu, Jiali Zhao, Xiaohu Yang, Xin Xia",
+            "venue": "48th International Conference on Software Engineering (ICSE 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C59",
             "title": "Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision",
             "authors": "Zhipeng Xue, Zhipeng Gao, Tongtong Xu, <b>Xing Hu</b>, Xin Xia, Shanping Li",
