@@ -63,7 +63,8 @@
             "title": "HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing",
             "authors": "Yukai Zhao, Menghan Wu, <b>Xing Hu*</b>, Xin Xia",
             "venue": "40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/ase253.pdf"
         },
         {
             "idx": "C54",
@@ -71,7 +72,7 @@
             "authors": "Qi Zhan, <b>Xing Hu*</b>, Yuanyi Lin, Tongtong Xu, Xin Xia, Shanping Li",
             "venue": "40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)",
             "status": "Accepted as a Full Paper",
-            "pdf": "assets/papers/ASE2025zq.pdf"
+            "pdf": "assets/papers/ase251.pdf"
         },
         {
             "idx": "C53",
@@ -85,14 +86,16 @@
             "title": "Code-DiTing: Automatic Evaluation of Code Generation without References or Test Cases",
             "authors": "Guang Yang, Yu Zhou, Xiang Chen, Wei Zheng, <b>Xing Hu</b>, Xin Zhou, David Lo, Taolue Chen",
             "venue": "40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/ase252.pdf"
         },
         {
             "idx": "C51",
             "title": "RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation",
             "authors": "Xiao Yu, Haoxuan Chen, Lei Liu, <b>Xing Hu</b>, Jacky Keung, Xin Xia",
             "venue": "40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "pdf": "assets/papers/ase254.pdf"
         },
         {
             "idx": "J25",
