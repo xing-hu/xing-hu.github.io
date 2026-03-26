@@ -1,6 +1,13 @@
 {
     "2026":[
         {
+            "idx": "C63",
+            "title": "GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI",
+            "authors": "Yi Gao, <b>Xing Hu</b>, Xiaohu Yang, Xin Xia",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C62",
             "title": "Automated Knowledge-Aware Test Reuse",
             "authors": "Ziyuan Zhang, Yi Gao, <b>Xing Hu</b>, Xin Xia, Shanping Li",
