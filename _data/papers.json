@@ -1,6 +1,13 @@
 {
     "2026":[
         {
+            "idx": "C62",
+            "title": "Automated Knowledge-Aware Test Reuse",
+            "authors": "Ziyuan Zhang, Yi Gao, <b>Xing Hu</b>, Xin Xia, Shanping Li",
+            "venue": "International Conference on the Foundations of Software Engineering (FSE 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C61",
             "title": "IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration",
             "authors": "Yi Gao, Ziyuan Zhang, <b>Xing Hu</b>, Xiaohu Yang, Xin Xia",
