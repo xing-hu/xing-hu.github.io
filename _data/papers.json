@@ -1,6 +1,13 @@
 {
     "2026":[
         {
+            "idx": "C64",
+            "title": "SecureVibeBench: Evaluating Secure Coding Capabilities of Code Agents with Realistic Vulnerability Scenarios",
+            "authors": "Junkai Chen, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, <b>Xing Hu*</b>, David Lo",
+            "venue": "64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
+            "status": "Accepted as a Main Conference Paper"
+        },
+        {
             "idx": "C63",
             "title": "GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI",
             "authors": "Yi Gao, <b>Xing Hu</b>, Xiaohu Yang, Xin Xia",
