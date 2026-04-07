@@ -3,7 +3,7 @@
         {
             "idx": "C64",
             "title": "SecureVibeBench: Evaluating Secure Coding Capabilities of Code Agents with Realistic Vulnerability Scenarios",
-            "authors": "Junkai Chen, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, <b>Xing Hu*</b>, David Lo",
+            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, <b>Xing Hu*</b>, David Lo",
             "venue": "64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
             "status": "Accepted as a Main Conference Paper"
         },
@@ -68,7 +68,7 @@
         {
             "idx": "J27",
             "title": "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks",
-            "authors": "<b>Xing Hu</b>, Feifei Niu, Junkai Chen, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, David Lo",
+            "authors": "<b>Xing Hu</b>, Feifei Niu, <a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, David Lo",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
             "status": "Accepted as a Full Paper"
         },
@@ -179,7 +179,7 @@
         {
             "idx": "C48",
             "title": "Understanding Practitioners’ Expectations on Clear Code Review Comments",
-            "authors": "Junkai Chen, Zhenhao Li, Qiheng Mao, <b>Xing Hu*</b>, Kui Liu, Xin Xia",
+            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhenhao Li, Qiheng Mao, <b>Xing Hu*</b>, Kui Liu, Xin Xia",
             "venue": "the 34th International Symposium on Software Testing and Analysis (ISSTA 2025)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/issta25codereview.pdf"
