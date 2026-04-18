@@ -1,9 +1,16 @@
 {
     "2026":[
         {
+            "idx": "C65",
+            "title": "An Empirical Study of Speculative Decoding on Software Engineering Tasks",
+            "authors": "Yijia Li, <a href='https://chen-junkai.github.io/'>Junkai Chen</a>, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "the 35th International Symposium on Software Testing and Analysis (ISSTA 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C64",
             "title": "SecureVibeBench: Evaluating Secure Coding Capabilities of Code Agents with Realistic Vulnerability Scenarios",
-            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, <b>Xing Hu*</b>, David Lo",
+            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, <b>Xing Hu</b>, David Lo",
             "venue": "64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
             "status": "Accepted as a Main Conference Paper"
         },
