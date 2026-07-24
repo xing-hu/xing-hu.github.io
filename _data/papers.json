@@ -1,6 +1,13 @@
 {
     "2026":[
         {
+            "idx": "J28",
+            "title": "Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation",
+            "authors": "Yukai Zhao, Shaohua Wang, Jue Wang, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "C65",
             "title": "An Empirical Study of Speculative Decoding on Software Engineering Tasks",
             "authors": "Yijia Li, <a href='https://chen-junkai.github.io/'>Junkai Chen</a>, <b>Xing Hu*</b>, Xin Xia",
