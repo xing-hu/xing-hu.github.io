@@ -1,6 +1,13 @@
 {
     "2026":[
         {
+            "idx": "C66",
+            "title": "EMERGE: Checking Implementation Equivalence for LLMs via Rule Synthesis",
+            "authors": "Qi Zhan, <b>Xing Hu*</b>, Xin Xia, Shanping Li",
+            "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE '26)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "J28",
             "title": "Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation",
             "authors": "Yukai Zhao, Shaohua Wang, Jue Wang, <b>Xing Hu*</b>, Xin Xia",
