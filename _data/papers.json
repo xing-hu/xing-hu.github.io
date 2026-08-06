@@ -1,17 +1,94 @@
 {
     "2026":[
         {
-            "idx": "C66",
+            "idx": "J32",
+            "title": "Semantic Consensus Decoding: Backdoor Defense for Verilog Code Generation",
+            "authors": "Guang Yang, <b>Xing Hu*</b>, Xiang Chen, Xin Xia",
+            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J31",
+            "title": "Enhancing Automated Unit Test Generation with Large Language Models: A Strategic Research Agenda",
+            "authors": "Junwei Zhang, <b>Xing Hu</b>, Cuiyun Gao, Xin Xia, Shanping Li",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J30",
+            "title": "Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation",
+            "authors": "Yukai Zhao, Shaohua Wang, Jue Wang, <b>Xing Hu*</b>, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J29",
+            "title": "Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration",
+            "authors": "Zirui Chen, <b>Xing Hu</b>, Xin Xia, Xiaohu Yang",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "J28",
+            "title": "ActRef: Enhancing the Understanding of Python Code Refactoring with Action-Based Analysis",
+            "authors": "Siqi Wang, <b>Xing Hu</b>, Xinyu Wang, Xin Xia",
+            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C73",
+            "title": "Bridging the Gap Between Intent and Impact: An Empirical Study of GPU Optimizations in Deep Learning Frameworks",
+            "authors": "Siqi Wang, Fanjing Luo,<b>Xing Hu*</b>, Xingyu Wang*, Xin Xia",
+            "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE '26)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C72",
+            "title": "AgentExecutor: Partial Code Execution via Agentic Context Generation",
+            "authors": "Junkai Chen, Chengran Yang, <b>Xing Hu*</b>, Zhenhao Li, Xin Xia, David Lo",
+            "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE '26)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C71",
+            "title": "RACE-bench: A Reasoning-Augmented Benchmark for Repository-Level Code Agents on Feature Addition",
+            "authors": "Shuhan Liu, Zhiyi Zhao, <b>Xing Hu*</b>, Kui Liu*, Xiaohu Yang, Xin Xia",
+            "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE '26)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C70",
+            "title": "VARIES: Verification Harness Synthesis and Efficient Scheduling for Unsoundness Detection in Rust Libraries",
+            "authors": "Huan Li, <b>Xing Hu</b>, Xin Xia, Xinyu Wang",
+            "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE '26)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C69",
             "title": "EMERGE: Checking Implementation Equivalence for LLMs via Rule Synthesis",
             "authors": "Qi Zhan, <b>Xing Hu*</b>, Xin Xia, Shanping Li",
             "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE '26)",
             "status": "Accepted as a Full Paper"
         },
         {
-            "idx": "J28",
-            "title": "Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation",
-            "authors": "Yukai Zhao, Shaohua Wang, Jue Wang, <b>Xing Hu*</b>, Xin Xia",
-            "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "idx": "C68",
+            "title": "SEER: Self-Enhancing Chain-of-Thought Compression for Reasoning Models",
+            "authors": "Kerui Huang, Shuhan Liu,  <b>Xing Hu</b>, Tongtong Xu, Lingfeng Bao, Xin Xia",
+            "venue": "the 35th International Symposium on Software Testing and Analysis (ISSTA 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C67",
+            "title": "SWE-PDB: Teaching LLMs to Leverage Debugging Tools via Agentic Training",
+            "authors": "Jiaxing Liu, <b>Xing Hu*</b>, Xin Xia*",
+            "venue": "the 35th International Symposium on Software Testing and Analysis (ISSTA 2026)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C66",
+            "title": "Answer is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence",
+            "authors": "Shengyi Pan, Zelong Zheng, Jiayuan Zhou, <b>Xing Hu</b>, Xin Xia, Shanping Li",
+            "venue": "the 35th International Symposium on Software Testing and Analysis (ISSTA 2026)",
             "status": "Accepted as a Full Paper"
         },
         {
