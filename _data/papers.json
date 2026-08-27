@@ -1,6 +1,13 @@
 {
     "2026":[
         {
+            "idx": "C75",
+            "title": "Lifting CUDA Tensor Kernels to Tile-Level Programs",
+            "authors": "Qi Zhan, <b>Xing Hu*</b>, Xin Xia, Shanping Li",
+            "venue": "IEEE/ACM International Symposium on Code Generation and Optimization  (CGO'27)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
             "idx": "J32",
             "title": "Semantic Consensus Decoding: Backdoor Defense for Verilog Code Generation",
             "authors": "Guang Yang, <b>Xing Hu*</b>, Xiang Chen, Xin Xia",
