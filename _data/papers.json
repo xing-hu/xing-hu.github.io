@@ -59,9 +59,10 @@
         {
             "idx": "C72",
             "title": "AgentExecutor: Partial Code Execution via Agentic Context Generation",
-            "authors": "Junkai Chen, Chengran Yang, <b>Xing Hu*</b>, Zhenhao Li, Xin Xia, David Lo",
+            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Chengran Yang, <b>Xing Hu*</b>, Zhenhao Li, Xin Xia, David Lo",
             "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE '26)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "remark": "ACM Distinguished Paper Award 🏅"
         },
         {
             "idx": "C71",
