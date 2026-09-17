@@ -62,7 +62,7 @@
             "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Chengran Yang, <b>Xing Hu*</b>, Zhenhao Li, Xin Xia, David Lo",
             "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE '26)",
             "status": "Accepted as a Full Paper",
-            "remark": "ACM Distinguished Paper Award 🏅"
+            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
         },
         {
             "idx": "C71",
@@ -174,7 +174,8 @@
             "title": "Automating Just-In-Time Python Type Annotation Updating",
             "authors": "Zhipeng Xue, Zhipeng Gao, <b>Xing Hu</b>, Jingyuan Chen, Xin Xia, Shanping Li",
             "venue": "48th International Conference on Software Engineering (ICSE 2026)",
-            "status": "Accepted as a Full Paper"
+            "status": "Accepted as a Full Paper",
+            "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
         }
     ],
     "2025":[
