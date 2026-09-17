@@ -59,7 +59,7 @@
         {
             "idx": "C72",
             "title": "AgentExecutor: Partial Code Execution via Agentic Context Generation",
-            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Chengran Yang, <b>Xing Hu*</b>, Zhenhao Li, Xin Xia, David Lo",
+            "authors": "<a href='https://icsawyer.github.io/'>Junkai Chen</a>, Chengran Yang, <b>Xing Hu*</b>, Zhenhao Li, Xin Xia, David Lo",
             "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE '26)",
             "status": "Accepted as a Full Paper",
             "remark": "ACM SIGSOFT Distinguished Paper Award 🏅"
@@ -109,14 +109,14 @@
         {
             "idx": "C65",
             "title": "An Empirical Study of Speculative Decoding on Software Engineering Tasks",
-            "authors": "Yijia Li, <a href='https://chen-junkai.github.io/'>Junkai Chen</a>, <b>Xing Hu*</b>, Xin Xia",
+            "authors": "Yijia Li, <a href='https://icsawyer.github.io/'>Junkai Chen</a>, <b>Xing Hu*</b>, Xin Xia",
             "venue": "the 35th International Symposium on Software Testing and Analysis (ISSTA 2026)",
             "status": "Accepted as a Full Paper"
         },
         {
             "idx": "C64",
             "title": "SecureVibeBench: Evaluating Secure Coding Capabilities of Code Agents with Realistic Vulnerability Scenarios",
-            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, <b>Xing Hu</b>, David Lo",
+            "authors": "<a href='https://icsawyer.github.io/'>Junkai Chen</a>, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, <b>Xing Hu</b>, David Lo",
             "venue": "64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)",
             "status": "Accepted as a Main Conference Paper"
         },
@@ -182,7 +182,7 @@
         {
             "idx": "J27",
             "title": "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks",
-            "authors": "<b>Xing Hu</b>, Feifei Niu, <a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, David Lo",
+            "authors": "<b>Xing Hu</b>, Feifei Niu, <a href='https://icsawyer.github.io/'>Junkai Chen</a>, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, David Lo",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
             "status": "Accepted as a Full Paper"
         },
@@ -278,7 +278,7 @@
         {
             "idx": "J20",
             "title": "NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations",
-            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhenhao Li, <b>Xing Hu*</b>, Xin Xia",
+            "authors": "<a href='https://icsawyer.github.io/'>Junkai Chen</a>, Zhenhao Li, <b>Xing Hu*</b>, Xin Xia",
             "venue": "In ACM Transactions on Software Engineering and Methodology (TOSEM)",
             "status": "Accepted as a Full Paper"
         },
@@ -293,7 +293,7 @@
         {
             "idx": "C48",
             "title": "Understanding Practitioners’ Expectations on Clear Code Review Comments",
-            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhenhao Li, Qiheng Mao, <b>Xing Hu*</b>, Kui Liu, Xin Xia",
+            "authors": "<a href='https://icsawyer.github.io/'>Junkai Chen</a>, Zhenhao Li, Qiheng Mao, <b>Xing Hu*</b>, Kui Liu, Xin Xia",
             "venue": "the 34th International Symposium on Software Testing and Analysis (ISSTA 2025)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/issta25codereview.pdf"
@@ -391,7 +391,7 @@
         {
             "idx": "C37", 
             "title": "Reasoning Runtime Behavior of a Program with LLM: How Far Are We?",
-            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, Zhiyuan Pan, <b>Xing Hu*</b>, Zhenhao Li, Ge Li, Xin Xia",
+            "authors": "<a href='https://icsawyer.github.io/'>Junkai Chen</a>, Zhiyuan Pan, <b>Xing Hu*</b>, Zhenhao Li, Ge Li, Xin Xia",
             "venue": "47th International Conference on Software Engineering (ICSE 2025)",
             "status": "Accepted as a Full Paper",
             "pdf": "assets/papers/ICSE2025CodeReasoning.pdf"
@@ -563,7 +563,7 @@
         {
             "idx": "C20",
             "title": "Code Search is All You Need? Improving Code Suggestions with Code Search",
-            "authors": "<a href='https://chen-junkai.github.io/'>Junkai Chen</a>, <b>Xing Hu*</b>, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo",
+            "authors": "<a href='https://icsawyer.github.io/'>Junkai Chen</a>, <b>Xing Hu*</b>, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo",
             "venue": "46th International Conference on Software Engineering (ICSE 2024)",
             "status": "Accepted as a Full Paper",
             "remark": "ACM SIGSOFT Distinguished Paper Award 🏅",
